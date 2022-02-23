@@ -1,0 +1,756 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Eloheem], or, God and the magtistrate as it was delivered in a sermon before the honorable Baron Atkin and Justice Tirril, two of His Majestie's judges of assize, in the cathedral church of Lincoln, and in the shrievalty of the honorable Sir Edward Dymockek, and champion to His Scared Majestie / by Obadiah Howe ...</title>
+            <author>Howe, Obadiah, 1615 or 16-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44705</idno>
+            <idno type="STC">Wing H3050</idno>
+            <idno type="STC">ESTC R10259</idno>
+            <idno type="EEBO-CITATION">11817769</idno>
+            <idno type="OCLC">ocm 11817769</idno>
+            <idno type="VID">49542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 535:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Eloheem], or, God and the magtistrate as it was delivered in a sermon before the honorable Baron Atkin and Justice Tirril, two of His Majestie's judges of assize, in the cathedral church of Lincoln, and in the shrievalty of the honorable Sir Edward Dymockek, and champion to His Scared Majestie / by Obadiah Howe ...</title>
+                  <author>Howe, Obadiah, 1615 or 16-1683.</author>
+               </titleStmt>
+               <extent>[4], 58 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Mallory ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Hebrew at head of title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXXXII, 6 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49542:1"/>
+            <pb facs="tcp:49542:1" rendition="simple:additions"/>
+            <p>אלהים OR, God and the Magiſtrate: As it was delivered In a SERMON before the Honorable Baron <hi>ATKIN</hi> and Juſtice <hi>TIRRIL,</hi> two of His <hi>Majeſtie</hi>'s Judges of Aſſize, in the Cathedral Church of <hi>Lincoln,</hi> and in the Shrievalty of the Honorable Sir <hi>EDWARD DYMOCKE</hi> K<hi rend="sup">t</hi>, and CHAMPION to His Sacred MAJESTIE.</p>
+            <p>By OBADIAH HOWE, <hi>M. A.</hi> and Vicar of <hi>Boston</hi> in <hi>Lincoln</hi>-ſhire.</p>
+            <q>
+               <p>Take heed what ye do; for you judge not for man, but for the Lord, who is with you in Judgment,</p>
+               <bibl>
+                  <hi>2 Chron. xix. 6.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Ultio Magiſtratûs, DEI ultio eſt: &amp; quam rependit Magiſtratus, rependit &amp; ipſe DEUS.</p>
+               <bibl>
+                  <hi>Spanhem.</hi> in <hi>Rom.</hi> xii. 19.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Mallory</hi> Book-ſeller at <hi>Boston</hi> in the County of <hi>Lincoln.</hi> 1663.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:49542:2"/>
+            <p>Imprimatur</p>
+            <closer>
+               <dateline>
+                  <date>Septemb. 15. 1663.</date>
+               </dateline>
+               <signed>
+                  <hi>M. Franck,</hi> S.T.P. Rever. in Chriſto Patri ac Dom. Dom. <hi>Gilb.</hi> Ar<g ref="char:EOLhyphen"/>chiepiſc. <hi>Cant. à</hi> Sacr. Dom.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49542:2"/>
+            <head>To the Honourable Sir <hi>Edward Dymocke</hi> Knight, and <hi>Champion</hi> to His Sacred <hi>MAJE<g ref="char:EOLhyphen"/>STY,</hi> and High-Sheriff of the County of LINCOLN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THat Sober and Grave Apophthegme, which I finde given by the Antient Jewes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Sile &amp; liberaberis,</hi> in Engliſh thus <hi>Be ſilent and be ſafe,</hi> gave a little check to my Reſolves both for the <hi>Pulpit</hi> and the <hi>Preſs.</hi> That Impreſs, which <hi>Cam<g ref="char:EOLhyphen"/>bden</hi> in his <hi>Remaines</hi> tells us a Gentleman choſe, <hi>Tuti montes, tutum ſilentium; Silence and ſoli<g ref="char:EOLhyphen"/>tude the beſt ſhelter,</hi> takes no ſmal impreſsion upon me. He that travails abroad in publick, muſt expect to be wounded by two Thieves, <hi>Envy</hi> &amp; <hi>Ignorance;</hi> the first hath his eye alwaies upon a blot, and he will be ſure to hit it; and the ſumm of his numeration is onely what was ſpoken ill. The ſecond, as he ſome<g ref="char:EOLhyphen"/>times admires, ſo he as often condemns that which he underſtands not. He that knoweth leaſt, carpeth moſt; to make good that Proverb, <hi>That a Flie hath a ſpleen.</hi> Let the Diſh and the Dreſsing be what it will, there being variety of palates, as were among <hi>Horace</hi> his Gueſts, it's an hundred to one, but the Cook is quarrelled with. But, Sir, my Reſolve rather to ſerve you, their ſecure my ſelf, brought we firſt upon the
+<pb facs="tcp:49542:3"/>Stage; and its the ſame that makes me continue ſo. Your Command bound me for the Pulpit, and to the Auditory, by way of Diſcourſe; and your Candor brings me to the Preſs, and to your Self, by way of Dedica<g ref="char:EOLhyphen"/>tion. What was preſented to your Ears, is here repre<g ref="char:EOLhyphen"/>ſented to your Eyes: not as commanding your pains in the review, but craving your Patronage. Your Com<g ref="char:EOLhyphen"/>mand did firſt give life to theſe Conceptions; they are therefore Yours. I humbly expect that right, that you will own them. The Subject was ſeaſonable, had the Speaker been ſuitable; the Subject deſerves your Pa<g ref="char:EOLhyphen"/>tronage, the Speaker deſires your Pardon. It is print<g ref="char:EOLhyphen"/>ed, as it was preached, without alteration, ſave only that I preſent it to you intire, as it was penn'd, with ſome few reſerves of Application in the cloſe, which my fear of too bold entrenchment upon publick Con<g ref="char:EOLhyphen"/>cerns made me omit. It is not Ambition, but Obedience to your Self, and the commanding Requeſts of other Friends that makes me appear in print; &amp; if I meet with ill meaſures from any that read it, I can esteem it one Compenſation, that it is, whileſt I am,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your humble and obliged Servant, OBADIAH HOWE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:49542:3"/>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. LXXXII. Verſe 6.</bibl>
+                  <p>
+                     <hi>I have ſaid ye are Gods,</hi> &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>DAVID,</hi> our holy Pſalmiſt, ſtands recorded both a King and a Prophet, both a Judge and a Preacher, both judging the Preachers, and preaching to the Judges. Hetelleth us <hi>Pſal.</hi> xl. 9. <hi>I have preached righteouſneſs,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in coetu magno, in the great Congregation,</hi> we read it; but <hi>Rab</hi> is <hi>qualitate,</hi> as well as <hi>quantitate magnum,</hi> as <hi>Shindler</hi> notes. The Se<g ref="char:EOLhyphen"/>ptuagint reads it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is of the ſame latitude too; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>Majeſty,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are <hi>Princes</hi> or <hi>Great ones.</hi> So that <hi>David</hi>'s preaching in <hi>coetu magno</hi> is but in <hi>coetu magnatum:</hi> and in the <hi>great Con<g ref="char:EOLhyphen"/>gregation,</hi> that is, in the <hi>Congregation of great ones. Da<g ref="char:EOLhyphen"/>vid</hi> is his own beſt Comment, and teſt, that he did it; <hi>Pſal.</hi> cxix. 46. <hi>I have preached righteouſneſs before Kings:</hi> and his own beſt inſtance, when he did it, <hi>Pſal.</hi> ii. <hi>Be wiſe, O ye Kings; and be ye instructed, ye Judges of the Earth.</hi>
+            </p>
+            <p>But howſoever, here in the Text, the whole Pſalm is <hi>Concio ad Magiſtratum,</hi> and may be truly called, for ſo it is, <hi>a Iudges Sermon.</hi> And if <hi>Marlorat</hi> calculate right, and if not, he erreth not with a few of the Learned.
+<pb n="2" facs="tcp:49542:4" rendition="simple:additions"/>who tell us, <hi>Pſalmum hunc ſingulari in uſu fuiſſe apud Iudaeos, &amp; ad hoc compoſitum, ut vel novis Iudicibus, vel ſingulis ad Iudicandum conceſſuris, praecineretur,</hi> 
+               <q>that this Pſalm was in ſingular uſe among the Jewes, and pen'd to this end, to ſing it before new Judges, or to every one when they came to <hi>ſit upon the ſeat of judg<g ref="char:EOLhyphen"/>ment.</hi>
+               </q> And if thus, then I think I have pitched right, it is a fit vein, whence to fetch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ater for this ſolemnity; and I might quit my ſelf well, if I took not the Verſe, but the Pſalm, not for my Text, but my Sermon, as to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; and make it my task, not ſo much to preach my repetition of <hi>David</hi>'s Sermon. We find God often ſpeak<g ref="char:EOLhyphen"/>ing to man, but here find man ſpeaking to the Gods. And it's worth our obſervation, what's ſpoken, where <hi>Gods</hi> are the <hi>Auditory,</hi> and no leſſe the Orator. <hi>David,</hi> it's true did both judge and preach, his typical relation to Jeſus Chriſt, in whom there the ſacred Monopoly of thoſe Divine Offices, King, Prophet, and Prieſt, li<g ref="char:EOLhyphen"/>cenſed him for that double ſervice; but now both precept and preſcription divide them. The duty in the one by providence is mine, the dignity in the other <hi>(My Lords)</hi> by Patent is yours. Your Patent is written by <hi>David</hi> here, and ſealed by him, who is the fountain of honour, Jeſus Chriſt himſelf, <hi>Ioh.</hi> x. 34. with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and the Scripture cannot be broken.</hi> your Commiſſion being thus writ and ſealed, I have a threefold Task. Firſt, to <hi>break it open.</hi> Secondly, to <hi>read it.</hi> Thirdly, to <hi>give a ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort charge.</hi> The firſt in the <hi>Nomina<g ref="char:EOLhyphen"/>tion.</hi> The ſecond in the <hi>Explication.</hi> The third in the <hi>Application</hi> of the Text. To the firſt I addreſſe my ſelf as to an eaſie work, ſoon done, in <hi>naming</hi> the Text,
+<pb n="3" facs="tcp:49542:4"/>as the learned may find it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or as the loweſt may read it, <hi>I have ſaid Ye are Gods.</hi>
+            </p>
+            <p>The Text is but a ſmall Cluſter; but, if well preſt, full of liquor; conciſe it is in ſentence, but very com<g ref="char:EOLhyphen"/>prehenſive in Senſe; but four words in it, and yet four parts; every word ſtanding as an entire member in the ſucceeding diviſion.</p>
+            <list>
+               <item>1. The Judges Dignity, in the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</item>
+               <item>2. The Judges Commiſſion, in the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</item>
+               <item>3. The validity and force of that Commiſſion, in the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</item>
+               <item>4. The particular application to Time and Perſon, that every one may take their ſhare both in the Dignity and Duty in the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</item>
+            </list>
+            <list>
+               <item>1. The Judges dignity, they are <hi>Gods.</hi>
+               </item>
+               <item>2. The Judges Commiſſion, they are <hi>ſaid</hi> to be ſo.</item>
+               <item>3. The validity of that Commiſſion, it's ſaid by one that may ſay it.</item>
+               <item>4. This is applicable to all Magiſtrates and Judges, wholly their Place and Office are ſo; and as to all, ſo to you <hi>(My Lords)</hi> he hath ſaid, <hi>Ye are Gods.</hi>
+               </item>
+            </list>
+            <p>The Text being thus well ſpelled, if as well put to<g ref="char:EOLhyphen"/>gether, as it ſhapes out work for a Judge, ſo it ſtirreth up a Judge to his work, in laying before him this Do<g ref="char:EOLhyphen"/>ctrinal Conſectary, which I intend, by the divine aſſi<g ref="char:EOLhyphen"/>ſtance, for the matter of my enſuing diſcourſe.</p>
+            <pb n="8" facs="tcp:49542:5"/>
+            <p>That "Magiſtrates and Judges are not leſs then Gods, "and God himſelf hath ſaid it.</p>
+            <p>Thus your Commiſſion is broke open, and my firſt task diſcharged with eaſe. The ſecond I am now come to, which is to read your Commiſſion, and ſo diſtinctly, that all may hear and fear, and the reading of your Com<g ref="char:EOLhyphen"/>miſſion is the due underſtanding of the Text: and, that I may do it clearly, I muſt ſpeak a word firſt of the <hi>Ani,</hi> ſecondly of the <hi>Amarti,</hi> thirdly of the <hi>Elohim.</hi>
+            </p>
+            <p>Firſt, for the <hi>Ani, I</hi> have ſaid, who is this <hi>I</hi> in the Text, that ſaith You are Gods. That Queſtion is appoſite here, that is put <hi>Acts</hi> viii. 34. <hi>Doth the Prophet ſpeak of him<g ref="char:EOLhyphen"/>ſelf, or ſome other man?</hi> Doth <hi>David</hi> ſpeak of himſelf, as if he ſaid it, who was but a man, and may ſpeak out of mi<g ref="char:EOLhyphen"/>ſtaken thoughts, as <hi>Ahaz,</hi> who ſacrificed to the <hi>gods of Damaſcus that ſmote him,</hi> 2 <hi>Chr.</hi> 28.3. Thoſe would be low and imaginary Gods, which are of mans making. And here there may be as great a miſtake, as in the men of <hi>Lystra,</hi> who ſaid of the Apoſtles, who were but men, that <hi>Gods were come down in the likeneſs of men.</hi> The Magi<g ref="char:EOLhyphen"/>ſtrates authority is weak enough, untill we know who this <hi>I</hi> is in the Text. Suppoſe, that it be <hi>David,</hi> that here <hi>ſaith,</hi> yet the authority will be ſtrong enough, his inſpi<g ref="char:EOLhyphen"/>ration for a Penman of Holy Scripture licenceth him to call them in ſpirit <hi>Gods,</hi> as it did to call Chriſt in ſpirit <hi>Lord, Mat.</hi> xxii. 48. The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <hi>David</hi> the Apoſtle owns, and gives us a reaſon why we ſhould do ſo, <hi>Acts</hi> ii. 30. <hi>He, being a Prophet, and knowing that God had ſworn with an oath, and ſeeing this before, he thus ſpake. David</hi> either ſpeaks it out of Scripture, or it is Scripture be<g ref="char:EOLhyphen"/>cauſe he ſpeaks it. <hi>Propheta eis in perſona ſacram Scriptu<g ref="char:EOLhyphen"/>ram
+<pb n="5" facs="tcp:49542:5"/>docentis ait, Ego dixi,</hi> ſaith <hi>Cajetan:</hi> that is, <hi>He ſaith,</hi>
+               <note place="margin">Cajetan. in Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. com.</note> 
+               <hi>I have ſaid, in the perſon of one, who is dictating holy Writ.</hi> And Chriſt himſelf when he takes cognizance of it, <hi>John</hi> x. 34. brings it in with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Is it not written in your Law? Davids ſay,</hi> if it be his, muſt paſs for their Law. But yet we are ſhort in the <hi>Ani,</hi> it reacheth beyond a <hi>David;</hi> even to God himſelf: <hi>Poteſt hoc accipi in in Dei perſona,</hi> ſaith <hi>Marlorat;</hi>
+               <note place="margin">Marlorat <hi>in</hi> loc.</note> 
+               <hi>It may be ta<g ref="char:EOLhyphen"/>ken in the perſon of God himſelf. Propheta ducit Deum ipſum loquentem,</hi> ſaith <hi>Mollerus:</hi>
+               <note place="margin">Mollerus.</note> 
+               <hi>The Prophet produceth God himſelf ſpeaking thus, I have ſaid.</hi> And ſo beſt an<g ref="char:EOLhyphen"/>ſwering to the words of Chriſt, <hi>John</hi> x. 34. <hi>If he called them Gods, to whom the Word of the Lord came.</hi> His word beſpeaketh them Gods, whoſe word ſanctifieth the Son, and ſent him into the world; and if ſo, the Magiſtrates authority is undoubted; for Gods word muſt ſtand: thongh every man be a liar, yet God muſt be true, and his word ſhall ſtand, when mans ſhall fall. Let <hi>Tyrus,</hi> though a mighty Prince, <hi>ſay</hi> it, nay with the Emphaſis of the Language, <hi>Ezek.</hi> xxviii. 9. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Numquid dicen<g ref="char:EOLhyphen"/>do dices, In ſaying thou ſhalt ſay.</hi> In ſaying he ſaid it, that he was <hi>God,</hi> as if he would take no controll either from earth, or heaven; yet it did not ſtand, becauſe God did not <hi>ſay</hi> it, there was the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> too for <hi>Herod,</hi> the people cried and ſaid, that <hi>Herod</hi> was <hi>God:</hi> ſaid it ſo, as not to whiſper him ſo in a corner, but as with drum and trumpet to proclaim him ſo by popular ſuffrage, and yet it did not ſtand, becauſe God <hi>ſaid</hi> it not, <hi>Acts</hi> xii. 22. But here in the Text this <hi>Ani I ſay it,</hi> and it ſhall ſtand, and the Scripture cannot be broken.</p>
+            <p>Secondly, The <hi>Amarti, I have ſaid;</hi> it may be demand<g ref="char:EOLhyphen"/>ed,
+<pb n="6" facs="tcp:49542:6"/>Hath the Magiſtrate, and Judges, onely the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of the Almighty for their Sanction? Titles of honour and digni<g ref="char:EOLhyphen"/>ties, eſpecial executive powers, are not looked upon as valid, without hand and ſeal, as well as word: their Commiſſion ſeems to be but ſlenderly fortified, that hath but his <hi>ſay</hi> for it. But its enough in this caſe. There needs no farther ſanction of any thing under the Sun, then, ac<g ref="char:EOLhyphen"/>cording to the known language of Scripture, <hi>The mouth of the Lord hath ſpoken it.</hi> Jeſus Chriſt hath no more for his regal power, which he univerſally exerciſeth over the Church, or the whole world: and Supremacy is ſtrongly enough veſted in him by the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of his Father, <hi>Pſal.</hi> ii. <hi>The Lord hath ſaid, Thou art my Son, this day have I be<g ref="char:EOLhyphen"/>gotten thee.</hi> Conſult the Linguiſts, and they will tell us, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Verb in the Text, ſignifies his <hi>cogitavit,</hi> his <hi>dixit,</hi> his <hi>juſſit,</hi> his <hi>conſtituit;</hi> his <hi>purpoſe,</hi> his <hi>decla<g ref="char:EOLhyphen"/>ration,</hi> his <hi>precept,</hi> his <hi>inſtitution:</hi> ſo that by his <hi>Word</hi> he as well conſtituteth, as declareth. It was ſo in his firſt Cre<g ref="char:EOLhyphen"/>ation, his <hi>dixit</hi> was his <hi>fecit,</hi> he ſpake the word and eve<g ref="char:EOLhyphen"/>ry thing was made. It is ſo alſo in the methods of his Go<g ref="char:EOLhyphen"/>vernment, he calls things that are not as if they were, and they are that thing they were not, it was ſo as to Jeſus Chriſt. So <hi>David</hi> our Pſalmiſt telleth us, <hi>Pſalm</hi> ii. His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in one verſe is his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the next verſe. In one ver. it is <hi>I have ſaid;</hi> in the other <hi>constitui, I have ſet</hi> my King upon my holy hill of Sion: which telleth us, that the Fathers <hi>ſaying</hi> was an authoritative conſtitution of the Son as King. And thus the Apoſtles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in 1 <hi>Cor.</hi> viii. 5. is his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Rom.</hi> xiii. 1. His <hi>calling</hi> them Gods in one Text, is his <hi>ordaining</hi> them Powers in the other Text: as if he would tell us, that his <hi>calling</hi> is their valid
+<pb n="7" facs="tcp:49542:6"/>and authoritative <hi>ordination.</hi> Hence is it, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Subſtantive ſignifies <hi>autoritas,</hi> and <hi>poteſtas,</hi> as well as <hi>ver<g ref="char:EOLhyphen"/>bum; authority</hi> and <hi>power,</hi> as well as <hi>word:</hi> as if power and authority was truly derived from the Fathers <hi>word.</hi> And <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies <hi>Princeps,</hi> or <hi>Judex,</hi> to tell us, that there needeth not farther a <hi>corroborandum</hi> to a Judges power and authority, then this in the Text, <hi>I have ſaid.</hi> Thus all is valid enough, both in the <hi>Ani,</hi> and in the <hi>Amarti.</hi>
+            </p>
+            <p>Thirdly, but for the Magiſtrates Dignity in the <hi>Elohim:</hi> here we are more in the dark, then before in the other two; and it is not eaſie to apprehend, how Men ſhould be Gods.</p>
+            <p>Firſt, we know, that theſe Twins, <hi>God,</hi> and <hi>Man,</hi> are not born out of the ſame womb: theſe Notions of <hi>God</hi> and <hi>Man</hi> do deny <hi>ad invicem</hi> very vehemently in Scri<g ref="char:EOLhyphen"/>pture. <hi>God</hi> and <hi>not Man,</hi> ſaith God of himſelf, <hi>Hoſ.</hi> xi. 9. <hi>Man</hi> and <hi>not God,</hi> ſaith God of <hi>Tyrus, Ezek.</hi> xxviii. 9. Chriſt onely excepted, who by virtue of his Hypoſtatical Union was privileged for both.</p>
+            <p>Secondly, a Deity and Immortality are inſeparable. 1 <hi>Tim.</hi> vi. 16. "who onely hath Immortality. It is his own elegant Paraphraſe upon the name <hi>Jehovah,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Who was, is, and is to come.</hi> And God himſelf immortalizeth his own Being in that com<g ref="char:EOLhyphen"/>prehenſive term of duration, <hi>I am:</hi> from eternity to e<g ref="char:EOLhyphen"/>ternity, he ſaith, <hi>I am, Exod.</hi> iii.</p>
+            <p>Thirdly, the Scripture ſpeaketh but of <hi>one God.</hi> 1 <hi>Cor.</hi> viii. 4. <hi>no God but one,</hi> one Lord and <hi>one God</hi> to us, <hi>v.</hi> 6. And God himſelf bounds this Mount, leſt any ſhould dare to approach, and boldly invade a Deity, <hi>Iſa.</hi> xlv.
+<pb n="8" facs="tcp:49542:7"/>22. <hi>I am God, and beſide me there is none;</hi> I am God, and there is none elſe. Yet behold the teeming womb of the Text, big with Paradoxes, more then Twins.</p>
+            <p>Firſt, ſpeaking to the Magiſtrates, who indeed are but men, he telleth them, that they are <hi>Gods,</hi> contrary to the firſt. Hereby favouring the <hi>Anthropomorphite.</hi>
+            </p>
+            <p>Secondly, when he hath aſſerted them <hi>Gods,</hi> he doth with the ſame breath tell them, they ſhall <hi>die like men,</hi> contrary to the ſecond. Herein falling into the Tents of the <hi>Theopaſchite.</hi>
+            </p>
+            <p>Thirdly, here are mentioned <hi>Gods</hi> in the Plural, and ſo ratified by the Apoſtle, <hi>Gods many, and Lords many,</hi> contrary to the third. Hereby reviving the exploded He<g ref="char:EOLhyphen"/>reſie of the <hi>Polytheist.</hi>
+            </p>
+            <p>Methinks, now I ſhould ſeem to have the Judges Com<g ref="char:EOLhyphen"/>miſſion wrong end upwards; or, it to be like the hand<g ref="char:EOLhyphen"/>writing upon the wall in <hi>Daniel,</hi> written in foreign and ſtrange Characters, ſo that the Wiſe-men could not read it; or, as <hi>Iſa.</hi> xxix. 11. <hi>The viſion is become like a book that is ſealed, one ſaith Read:</hi> and that's my preſent task. But I may anſwer, <hi>I cannot, becauſe its ſealed.</hi> But a due underſtanding of the <hi>Elohim,</hi> I hope, will be as the <hi>clavis</hi> or <hi>key</hi> to the Characters, and a clear ſolution to this ſeem<g ref="char:EOLhyphen"/>ing Riddle.</p>
+            <p>We ſhall find, that in Scripture God hath many names. St. <hi>Jerome,</hi> and the <hi>Rabbines,</hi> ſumm them up to <hi>ten.</hi> But our task is not to find out how many he hath, but which of them are attributed to the Creature, and which not. To clear this we muſt know, That the Names of God are of two ſorts; either ſuch, as flow from his <hi>eſſence;</hi> or ſuch, as flow from his <hi>influence;</hi> either from his <hi>incommunicable
+<pb n="9" facs="tcp:49542:7"/>Being,</hi> or from his <hi>Communicable Attributes.</hi> Such, as flow from his Incommunicable Eſſence, or Being; as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Iehovah, Ehieh, Iah, Shaddai:</hi> are proper onely to God, and attributed to the Crea<g ref="char:EOLhyphen"/>tures never. Thoſe Titles, by which God will be known, none elſe ſhall. Diſtinguiſhing Titles admit not of a Communication, leſt all things ſhould run into a parity betwixt the Creator and the Creature. This Name <hi>Iehovah,</hi> the Antient Jews, ſay is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gods <hi>Proper Name,</hi> and he doth no leſs himſelf, when he ſaith <hi>Iſa.</hi> xlii. 8. <hi>I am IEHOVAH, that is, My Name and my Glory will I not give to any other.</hi> The Learned obſerve, that this Name <hi>Iehovah</hi> hath many Grammatical Privileges: As not to admit of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Empha<g ref="char:EOLhyphen"/>ticum,</hi> nor any <hi>affix Pronouns,</hi> nor any <hi>constructive Forms,</hi> nor any <hi>Deolenſion.</hi> The Reaſon is given by <hi>Bux<g ref="char:EOLhyphen"/>torſſe; Quia ſui exhibet notitiam, nec alio ſigno opus ha<g ref="char:EOLhyphen"/>bet.</hi> It is ſo glorious a Name, that it carrieth its luſter in its own face, that it need not as the Diamond from the foil, borrow any thing from ſuch forrain helps. The Scripture calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lev.</hi> xxiv. 11. <hi>that Name,</hi> by way of Emphaſis; and God calls it himſelf <hi>Glorioſum &amp; Terribile Nomen,</hi> Deut. xxviii. 58. <hi>My Glorious and Terrible Name.</hi> The Antient Jews, dwelling too much upon theſe hints, dandled up the Notion to too great a height of Superſtition, and it came to be a<g ref="char:EOLhyphen"/>mongſt them a Name (as our learned <hi>Gregory</hi> expreſ<g ref="char:EOLhyphen"/>ſeth it) of ſuch immoderate reverence, that they ima<g ref="char:EOLhyphen"/>gined, that it was by that Name writ or engraven up<g ref="char:EOLhyphen"/>on <hi>Moſes</hi>'s Rod, that, <hi>as by an holy and divine Charm,</hi> he changed his Rod into a Serpent, divided the Sea,
+<pb n="10" facs="tcp:49542:8"/>and commanded Water out of the Rock; and that by which Chriſt himſelf, having it engraven upon his foot, did heal the diſeaſed, and diſpoſſeſſed Devils. Upon theſe thoughts the Jewes were ſo far from attributing this Name to man, as they would not permit man to attribute it to God; but it muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Sem hammphoraſh,</hi> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>an inexpreſſible Name,</hi> to be ſeparated from mans diſcourſe, and not to be named, but expounded by other letters: and if any perſon, but the <hi>High Prieſt;</hi> or he in any other place, but the <hi>Holy of Holies;</hi> or there in any other caſe, then the <hi>Benediction,</hi> ſhould adventure to name this Name, it was death by their Law. But our preſent Caſe will not be cleared by ſhewing what was not, but what was, and is, and may be attributed to the Creature.</p>
+            <p>You muſt know therefore, that thoſe names, which flow from Gods Communicable Attributes (of which there are many, one of which is this of <hi>Elohim</hi>) are given to others beſides God himſelf; wherein he is pleaſed to communicate that Sovereignty and Power to the Creature, which is originally in himſelf, and herein doth as the Sun in the Firmament, reſerve him<g ref="char:EOLhyphen"/>ſelf to be the Fountain of Light and Heat, even then when he lendeth his Beams: for all thoſe Names and Titles, that he lendeth to men, they are but the Irra<g ref="char:EOLhyphen"/>diations of Majeſtie, Power, and Authority upon them. But the next thing Conſiderable is to examine how theſe Titles and Names, particularly this of <hi>Elohim,</hi> is given to Man.</p>
+            <p>Amongſt the various waies of coming to the know<g ref="char:EOLhyphen"/>ledge of God, mentioned in the Scriptures, this is one,
+<pb n="11" facs="tcp:49542:8"/>
+               <hi>per viam eminentiae,</hi> by way of eminence, that is, when we behold any excellency in the Creature, we trace it to God himſelf, and judge it eminently to be in him; and ſo we add the Name of <hi>God</hi> to that thing: as, the <hi>Cedars</hi> for their excellent height, becauſe <hi>God</hi> is high, are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Cedars of God; the Lion,</hi> becauſe of his ſtrength, and becauſe <hi>God</hi> is ſtrong,<note place="margin">Pſal. lxxxx. <hi>10. 2</hi> Sam. xxiii. <hi>20.</hi>
+               </note> is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Lion of God; Mountains;</hi> becauſe of their inacceſſible height, and unvanquiſhable ſtrength, are called often the <hi>Mountains of God:</hi> and thus <hi>Princes, Magiſtrates,</hi> and <hi>Iudges,</hi> becauſe of the greatneſſe of their Place and Office, and excellency of their En<g ref="char:EOLhyphen"/>dowments, had this honour, to quarter their Eſcutche<g ref="char:EOLhyphen"/>ons with God himſelf. Upon this account <hi>Moſes</hi> firſt in <hi>Deut.</hi> xxxiii. 1. and <hi>David</hi> himſelf after, both as <hi>Princes,</hi> and <hi>David</hi> as <hi>Prince</hi> and <hi>Prophet;</hi> each of them had this dignifying Title <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the man of God: Nehem.</hi> xii. 24. But this ariſeth not to ſatisfa<g ref="char:EOLhyphen"/>ction in our preſent Caſe, becauſe here is not <hi>Elohim</hi> conjoyned, but <hi>Elohim</hi> ſingly: and the Judges not called <hi>Men of God;</hi> but they, being Men, are called <hi>Gods.</hi>
+            </p>
+            <p>To ſatisfie this laſt and great ſcruple, we muſt know, that the Word and Name <hi>Elohim</hi> is attributed either properly or improperly in Scriptures. If properly, then its given to God himſelf. Thus ſaith an Antient Jew, <hi>Elohim eſt epitheton dominatoris aut judicis: &amp; talis est vel univerſalis, dominium habens in mundum uni<g ref="char:EOLhyphen"/>verſum; vel particularis, ut Iudex inter homines.</hi> 
+               <q>This <hi>Elohim</hi> is an Epithite or Name of Dominion and Judgement: and this either univerſal to one, that hath
+<pb n="12" facs="tcp:49542:9"/>univerſal dominion over the whole World, or particu<g ref="char:EOLhyphen"/>lar, as a Judge amongſt men.</q> And thus it is given to God as the <hi>prime, ſole, abſolute, Moderator</hi> of Heaven and Earth, as one who is Judge himſelf, as <hi>Pſal.</hi> l. 6. and Judge of all, <hi>Gen.</hi> xix. And this Name properly be<g ref="char:EOLhyphen"/>longs to him, or to any other, as Judge, paſſing Sen<g ref="char:EOLhyphen"/>tence and Execution. Upon which ground our Saviour Chriſt ſpeaking to him as a <hi>Iudge,</hi> executing the ſeve<g ref="char:EOLhyphen"/>reſt right upon his Son, cried not <hi>Iehovah, Iehovah,</hi> but <hi>Eli, Eli;</hi> or, as <hi>Mark</hi> hath it, <hi>Eloi, Eloi, Mark</hi> xv. 34. And, if we may take the received opinion of the Learned, when this word <hi>Elohim</hi> is given to <hi>God,</hi> there is a word of the Singular Number added to it, as <hi>Gen.</hi> i. 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Creavit Dii,</hi> 
+               <q>The Gods created the Heaven and the Earth: that hereby they might hold forth the Unity of Eſſence, and the Trinity of Perſons</q>. <hi>Lombard in Part.</hi> 1. <hi>and Quest.</hi> 2. is very expreſſe in it, and <hi>Galatinus in lib.</hi> 2. <hi>De arcanis Catholicae veritatis, cap.</hi> 9. is much more elaborate in it: though the learned <hi>Buxtorf. in his Philolog. Theolog. Diſſertation. De Nomi<g ref="char:EOLhyphen"/>nibus Dei,</hi> brings againſt it nine cogent Reaſons, which I cannot now examine; becauſe, at the beſt, this will not ſerve our turn, as not being to the caſe in hand: Clear it is, that <hi>Elohim</hi> is Gods Title; but we are to examine, how its given to the Creatures. We muſt therefore conſider, that this word <hi>Elohim</hi> is uſed impro<g ref="char:EOLhyphen"/>perly in Scripture; and ſo it is uſed either <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by an <hi>Irony,</hi> on by a <hi>Metaphor.</hi>
+            </p>
+            <p>
+               <hi>Ironically,</hi> and ſo it is attributed to the <hi>Idols,</hi> which either the Heathen, or the <hi>Iſraelites</hi> at any time ignorant<g ref="char:EOLhyphen"/>ly worſhipped; as <hi>Iudg.</hi> xvii. 6. it's ſaid of <hi>Micah,</hi>
+               <pb n="13" facs="tcp:49542:9"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he had a houſe of Gods, of <hi>Elohim,</hi> the right name of them was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Pſal.</hi> xcvi. 5. all their <hi>Elohim</hi> are <hi>Elilim,</hi> ſome think ſo called from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quaſi non dii,</hi> becauſe they are not Gods, but this is ſomething too ſhort, they may be ſomething, though they be not Gods. I think rather from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſo the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>nihil,</hi> ſignifying <hi>nothing,</hi> coming up to the Apoſtles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Cor.</hi> viii. 4. <hi>An Idol is nothing in the world,</hi> and if by a reverential miſtake Idolaters will have the <hi>Elilim</hi> turn'd into <hi>Elohim.</hi> God himſelf will by an <hi>Irony</hi> gratifie their deſire, and call them <hi>Elohim</hi> too, but to ſhew that they are <hi>Gods,</hi> but of a ſpurious extract. The Rabbins make them to bear the note of Baſtardy in their coat, and call them in con<g ref="char:EOLhyphen"/>tempt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the feminine gender. But neither doth this relieve us in our preſent caſe.</p>
+            <p>Secondly, <hi>Elohim</hi> is attributed to the Creatures by a <hi>Metaphor,</hi> and ſo it is given either to Angels or Men. the Scripture ownes this diſtinction, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 1 Cor. viii. 5. <hi>called Gods in heaven and in earth:</hi> Thoſe that are called Gods in heaven are the bleſſed <hi>Angels;</hi> and that they are ſo, I ſhall not trouble you with many Scriptures; only compare two which will put it beyond all doubt, Pſal. viii. 5. <hi>David</hi> ſaith, <hi>Lord what is man that thou art mindfull of him? thou hast made him little lower</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> then the <hi>Elohim.</hi> But let <hi>Paul</hi> be <hi>David</hi>'s Commentator, and he will tell us, that he made him a little lower <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> then the <hi>Angels,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 2.7.</note> becauſe they have a tutelary power veſted in them over the Saints, being the <hi>Ministers of God for good, to them that ſhall be Heirs of Salvation,</hi> Heb. 1. <hi>ult.</hi> not ſo much
+<pb n="14" facs="tcp:49542:10"/>out of Courteſie as Charge; for ſo <hi>he gives his Angels charge to keep them in their waies,</hi> as alſo to be the In<g ref="char:EOLhyphen"/>ſtruments of his Vengeance upon his Enemies. They are called <hi>Gods,</hi> but yet this ſatisfies not; let us go but one ſtep further, and it will bring us thither where we ſhould be, and that is to the Apoſtles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Gods that are upon earth;</hi> and thus by a Metaphor it is.</p>
+            <p>Secondly, attributed to Men; and ſo to <hi>Princes, Ma<g ref="char:EOLhyphen"/>gistrates, and Judges;</hi> thus they are called all over the Scriptures: In the Old Law it frequently occurreth to us; Exod. xxi. 6. <hi>If the Servant will not depart from his Master, he ſhall bring him</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to read it well, to the <hi>Judges,</hi> though in the text it is to the <hi>Gods;</hi> and Exod. xxii. 9. <hi>If the Thief be not found, the Master of the Houſe ſhall be brought</hi> (el-Haelohim) to the <hi>Judges;</hi> and 1 Sam. ii. 25. <hi>If one man ſin against another</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Judge</hi> ſhall Judge him.</p>
+            <p>
+               <hi>Rabbi Moſes Ben. Majmon</hi> indeed (as if he intended to blunder the Magiſtrates Commiſſion, that it might not be diſtinctly read) he aſſerts that this Name <hi>Elohim</hi> is properly attributed to man, and but improperly to God, whom <hi>A. Barbanel</hi> that Learned Jew, underta<g ref="char:EOLhyphen"/>keth, as well he may in this conteſt, ſave onely that he drives his ſhafts too far; and in avoiding <hi>Scylla</hi> he falleth into <hi>Charibdis,</hi> and ſtriving to refel that Rabbin, who ſaid that <hi>Elohim</hi> was properly attributed to the Magi<g ref="char:EOLhyphen"/>ſtrate; he doth it by the other extream, and proves that <hi>Elohim</hi> is not either properly or improperly attri<g ref="char:EOLhyphen"/>buted to the Judges. And as for thoſe Texts before ci<g ref="char:EOLhyphen"/>ted, <hi>Exod.</hi> xxi. 6. <hi>&amp; Exod,</hi> xxii. 8, 9. where the man is
+<pb n="15" facs="tcp:49542:10"/>to be brought <hi>we read</hi> before the <hi>Iudges.</hi> He likes not that, but thinks by an <hi>Ellipſis,</hi> ſome word being un<g ref="char:EOLhyphen"/>derſtood, muſt be added to make up the ſenſe, as in <hi>Exod.</hi> xxi. 6. <hi>his Maſter ſhall bring him:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he would read it <hi>ad Iudicium Dei,</hi> to the judgement of <hi>God,</hi> not of the Gods; ſo the <hi>Elohim</hi> to denote not <hi>Man,</hi> but <hi>God.</hi> And he is confirmed in it, not onely by the Septuagint, who reads it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>be<g ref="char:EOLhyphen"/>fore the Tribunal of God;</hi> but alſo further by that Text, <hi>Deut.</hi> xix. 17. where he thinks there is the like expreſ<g ref="char:EOLhyphen"/>ſion: and its ſaid there <hi>they ſhall ſtand,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>before the Lord;</hi> which he takes to be the ſame as if it had been ſaid before, the <hi>Elohim:</hi> and he argues as he thinks very ſtrongly, thus: <hi>Num enim hie quoque dice<g ref="char:EOLhyphen"/>mus, quod Sacerdotes &amp; Indices Scriptura vocet Nomine Dei proprio tetragrammato.</hi> 
+               <q>Shall we think that the Scripture calls the Prieſts and Judges by that proper Name of God <hi>Iehovah:</hi> and if not by that, when they are ſaid to ſtand before <hi>Iehovah;</hi> why in the other, when they are ſaid to be brought before <hi>Elohim.</hi>
+               </q> And if this be truth, the Judges Commiſſion may be laid aſide, and we to ſeek in our Work, as to the <hi>Elohim</hi> in the Text.</p>
+            <p>Therefore I think I may anſwer that learned Jew thus, granting him his main end, that <hi>Elohim</hi> is not attributed to man properly. Yet all that he ſaith doth not refel this truth, that it is attributed to man improperly, and by a metaphor: as for that Text, <hi>Deut.</hi> xix. 17. where they are ſaid to ſtand before Jehovah, it excludes not the Ma<g ref="char:EOLhyphen"/>giſtrate, that Text includes them. They are ſaid to ſtand <hi>before the Lord, and before the Judge,</hi> and when before
+<pb n="16" facs="tcp:49542:11"/>the Judge, then before the Lord alſo, becauſe the Judge<g ref="char:EOLhyphen"/>ment is his, <hi>Deu.</hi> i. 17. &amp; he is with them in Judgement, 2 <hi>Ch.</hi> xix. 6. So that though God be <hi>Jehovah,</hi> yet the Magiſtrate may be <hi>Elohim;</hi> and though <hi>Jehovah</hi> cannot be given to man, yet <hi>Elohim</hi> may: let God have his <hi>Jehovah</hi> to himſelf, and man the <hi>Elohim.</hi> Or further, <hi>Pſal.</hi> lxxxii. 1. where the Text ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Elohim judicabit in medio Elohim.</hi> So that here is an <hi>Elohim</hi> for God, and yet an <hi>Elohim</hi> for the Judges: God he is, and yet Gods they are. So we read it in our Tranſlation, <hi>God judgeth a<g ref="char:EOLhyphen"/>mong the gods,</hi> ſo that God may have his proper and con<g ref="char:EOLhyphen"/>nate, and the Magiſtrate his derived and borrowed <hi>Elo<g ref="char:EOLhyphen"/>him.</hi> And for his <hi>Ellipſis</hi> that our Authour would have in thoſe Texts, <hi>Exod.</hi> xxi. 6. <hi>&amp; Exod.</hi> xxii. 8. it is nei<g ref="char:EOLhyphen"/>ther <hi>neceſſary,</hi> nor <hi>convenient:</hi> not neceſſary, becauſe the <hi>Chaldee Paraphrast,</hi> the <hi>Interlineary,</hi> the <hi>Haebreo-Samaritan,</hi> the <hi>Arabick,</hi> the <hi>Syriack</hi> Verſions all of them have <hi>coram Judicibus, ad Judicem,</hi> or <hi>ad Judices,</hi> as we read it before the Judges. Beſides, its not <hi>convenient;</hi> for though it may be admitted in thoſe two Texts before quoted, yet it will make us fall foul upon other Texts, where the Magiſtrates are called <hi>Gods,</hi> and where that ſuppoſed <hi>Ellipſis</hi> cannot be reduced to conſtructive ſenſe; as in <hi>Exod.</hi> xxii. 28. Thou ſhalt not revile the <hi>Gods, nor ſpeak evil of the Ruler of thy people,</hi> where there is a a manifeſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one tearm to explain the other, <hi>Re<g ref="char:EOLhyphen"/>vile,</hi> and <hi>ſpeak evil,</hi> one and the ſame: ſo the <hi>Gods,</hi> and the <hi>Ruler of thy people,</hi> both one; and there it is <hi>Elo<g ref="char:EOLhyphen"/>him,</hi> as in the Text. So in <hi>Pſal.</hi> xxxii. 1. <hi>God judgeth a<g ref="char:EOLhyphen"/>mong the gods.</hi> The later, <hi>Elohim</hi> muſt be taken for the Magiſtrate, 1 <hi>Cor.</hi> viii. 4, 5, 6. <hi>Gods many, and
+<pb n="17" facs="tcp:49542:11"/>Lords many,</hi> and that on the Earth which muſt be the Magiſtrate, and <hi>Ioh.</hi> x. 34. if he called them <hi>Gods,</hi> to whom the Word of the Lord came: where there is a manifeſt diſtinction betwixt the Lord, who ſent his Word, and the <hi>Gods</hi> to whom that Word of the Lord came. So that I think we ſhall force this truth againſt all Cavil, that Magiſtrates are called <hi>Elohim,</hi> or Gods, in Scripture, according to that in the Apoſtle, <hi>There be many that are called Gods,</hi> which being thus cleared, will give life, and add much clearneſs to the Judges Com<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p>Yet one thing more is here conſiderable, that, when its ſpoken of and to Magiſtrates, it is as here in the Plu<g ref="char:EOLhyphen"/>ral number, <hi>Elohim Gods.</hi> Some would have it becauſe of the greatneſs of their office and place: and ſo accord<g ref="char:EOLhyphen"/>ing to the uſe and cuſtome amongſt us, who ſpeak to <hi>Kings,</hi> and <hi>Princes,</hi> and <hi>Magiſtrates;</hi> and as they write <hi>Nos</hi> in the Plural number, its not onely as matter of State, but upon good ground; <hi>datur id honori ejus qui ita appellatur, quaſi ob dignitatem instar multorum e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et,</hi> ſaith <hi>Crellins:</hi> as the people ſaid unto <hi>David, Thou art worth ten thouſand of us,</hi> 2 <hi>Sam.</hi> xviii. 3. or as others would. It is in the Plural number, becauſe the Magi<g ref="char:EOLhyphen"/>ſtrate is not ſingle, and alone, in Judgement. Its the ſword of the Lord, and the ſword of <hi>Gideon;</hi> Judge<g ref="char:EOLhyphen"/>ment is his, and he is with you in Judgement, 2 <hi>Chr.</hi> xix. 6. And we ſtand before the Lord and the Judge; and therefore it muſt be <hi>Elohim;</hi> but there is ſomething more in it. And I am of <hi>Mollerus</hi> his mind, who ſaith, <hi>Nunquam tribuitur uni abſolutè Elohim,</hi>
+               <note place="margin">Mollerus <hi>in Pſa.</hi> 45.</note> 
+               <hi>qui ſimul adda<g ref="char:EOLhyphen"/>tur restrictio ſive nota,</hi> 
+               <q>The name <hi>Elohim</hi> is never at<g ref="char:EOLhyphen"/>tributed
+<pb n="18" facs="tcp:49542:12"/>to one ſingle perſon, but there is ſome note of reſtriction; as <hi>Exod.</hi> iv. 16.</q> God told <hi>Moſes</hi> he ſhould be to Aaron in ſtead of God, not <hi>Elohim</hi> abſolute<g ref="char:EOLhyphen"/>ly and ſimply, as in the Text, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for, or inſtead of a God. But when he ſpeaks it as here, abſolutely, that they <hi>are Gods,</hi> he means it not of any one ſingly, but of the whole body of Magiſtracy. And Magiſtrates teach<g ref="char:EOLhyphen"/>ing us, that it is not a perſonal, but official Dignity; its their Title, not <hi>ex dignitate humana,</hi> ſed <hi>ex dignatione divina;</hi> "Not of Mans deſert, but the Divine favour to conferre it. And Gods they are, <hi>Non natura, ſed partici<g ref="char:EOLhyphen"/>patione;</hi> "Not by nature, but by participation, bor<g ref="char:EOLhyphen"/>rowing their borrowed Deity from a higher perſon after this long and narrow diſcovery, That the Magiſtrates are called Gods. The next thing that deſerves our conſi<g ref="char:EOLhyphen"/>deration is, Why they are called <hi>Gods?</hi> the reſolution of which will help us yet farther in the reading the Judges Commiſſion, and will be as the ſalt to the whole diſcourſe, without which, the ambitious nature of man would tumify in the fond dreams of a Deity, the miſtake is too eaſy to mans ſwelling apprehenſions. This itch af<g ref="char:EOLhyphen"/>ter a Deity above us, loſt us, and expoſed us to the Di<g ref="char:EOLhyphen"/>vine, but tart <hi>Irony, The man is become like one of us, Gen.</hi> iii. 22. <hi>Tyrus,</hi> arrogantly aſſumed it, and <hi>Herod</hi> ambitiouſly accepted it. But to both their Ruines, if we may believe the Learned, this was the firſt piece of Ido<g ref="char:EOLhyphen"/>latry which crept into the world. So ſome read the Text, <hi>Gen.</hi> iv. laſt. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Thus <hi>then did they begin to call men by the name of the Lord.</hi> And very great if not more then probabilities, that from the firſt, men did either aſſume a Deity to themſelves, or others did as im<g ref="char:EOLhyphen"/>piouſly
+<pb n="19" facs="tcp:49542:12"/>yield it. This deifying the Creature was the un<g ref="char:EOLhyphen"/>happy original of that ſacrilegious practice of ſwearing by their <hi>Princes</hi> and <hi>Rulers,</hi> as by ſo many real <hi>Deities:</hi> as <hi>Horace</hi> of <hi>Auguſtus.</hi>
+            </p>
+            <q>
+               <l>—tibi maturos largimur honores,</l>
+               <l>Jurandasque tuum per nomen ponimus Aras.</l>
+            </q>
+            <p>Who was very ſhy of accepting the Title of <hi>Dominus,</hi> or <hi>Lord</hi> at firſt, but at laſt could ſwallow that of <hi>God</hi> al<g ref="char:EOLhyphen"/>ſo. Neither was this of ſo late a deſcent as <hi>Horace,</hi> and <hi>Auguſtus.</hi> For good <hi>Joſeph</hi> got a ſmack by dwelling in <hi>Egypt,</hi> when ſo frequently he ſwore by the life of <hi>Pharaoh.</hi> It is moſt impious flattery to court mortality into Gods Throne. And for man either to give, or take in this caſe. For the <hi>Samaritans</hi> to call <hi>Antiochus</hi> their God, though he acted more like a Devil; or as the Poet.</p>
+            <q>Edictum Domini Deique nostri.</q>
+            <p>To look at the Emperour as Lord and <hi>God:</hi> for <hi>Meren<g ref="char:EOLhyphen"/>tius</hi> to demand thoſe ſacrifices which were prepared for the Gods, to be offered up to him as <hi>God,</hi> or for the peo<g ref="char:EOLhyphen"/>ple to intend to offer ſacrifices to the Apoſtles, as ſo ma<g ref="char:EOLhyphen"/>ny <hi>Gods;</hi> though they rejected it with <hi>Why do you Sirs, ſince we are men of like paſſions with your ſelves?</hi>
+            </p>
+            <p>My Lords, when I tell you, <hi>and that from the Lord,</hi> that you are <hi>Gods.</hi> I intend not to tell you that you can divide the Sea; Cauſe Jordan to ſtand up on heaps; The Sun to go backwards; Or the Moon to ſtand ſtill, hereby to incourage you to lay claim to thoſe unimitable foot<g ref="char:EOLhyphen"/>ſteps of his power, if I ſhould, you would ſoon convince me: as <hi>Canutus</hi> once King in this Iſland,<note place="margin">
+                  <hi>Cambden</hi> in his Re<g ref="char:EOLhyphen"/>mains.</note> confuted his Sycophants that told him he was God, and could re<g ref="char:EOLhyphen"/>mand the aeſtuations of the Sea: He wrapt up his Cloak
+<pb n="20" facs="tcp:49542:13"/>on an heap, laid it down upon the ſand, and ſitting upon it with his Scepter in his hand: Commanded the Sea; but it would not obey him. I muſt here ſay ei<g ref="char:EOLhyphen"/>ther with that good old Father:<note place="margin">Tertullian.</note> 
+               <hi>Imperatorem Deum non dicam quia vel mentiri neſcio, vel eum deridere "non Audeo</hi> 
+               <q>I dare not call the Emperour <hi>a God,</hi> either becauſe I dare not lie, or becauſe I dare not deride and mock him: Or elſe I muſt apolo<g ref="char:EOLhyphen"/>gize with <hi>Iob</hi> xxxii. 22.</q> I am not to give flattering Titles to Man, for then my Maker would ſoon reprove me: and the next words doth it effectually, <hi>Ye ſhall die like men.</hi>
+            </p>
+            <p>And yet Gods you are, <hi>Identitate</hi>
+               <list>
+                  <item>
+                     <hi>Potestatis</hi>
+                  </item>
+                  <item>
+                     <hi>Titulis</hi>
+                  </item>
+                  <item>
+                     <hi>Operis</hi>
+                  </item>
+                  <item>
+                     <hi>Finis</hi>
+                  </item>
+               </list>
+by an oneneſs of
+<list>
+                  <item>Power.</item>
+                  <item>Title.</item>
+                  <item>Work.</item>
+                  <item>End.</item>
+               </list>
+            </p>
+            <p>The Magi<g ref="char:EOLhyphen"/>ſtrate is
+<list>
+                  <item>1. Veſted with</item>
+                  <item>2. Dignified with</item>
+                  <item>3. Imployed in</item>
+                  <item>4. Directed unto</item>
+               </list>
+the ſame
+<list>
+                  <item>Power</item>
+                  <item>Titles</item>
+                  <item>Work</item>
+                  <item>End</item>
+               </list>
+with God himſelf.</p>
+            <p>In the proſecution of which particulars: I would lay down this Rule: That what is ſpoken in Scripture of the Supreme Magiſtrate, holds alſo true of thoſe that are ſent of him: and what is ſpoken of inferiour Magi<g ref="char:EOLhyphen"/>ſtrates, holds more true eminently of the Supreme. Thus the Scripture joyns them together, 1 <hi>Tim.</hi> ii. 2. <hi>For Kings and for all that are in Authority;</hi> and 1 <hi>Pet.</hi> ii.
+<pb n="21" facs="tcp:49542:13"/>13, 14. <hi>Whether to the King as ſupreme, or unto Gover<g ref="char:EOLhyphen"/>nours, as unto them that are ſent by him:</hi> with the ſame ſubordination as all earthly power is into God him<g ref="char:EOLhyphen"/>ſelf. Now to proceed</p>
+            <p n="1">1. <hi>The Magistrate is veſted with the ſame power that God himſelf is.</hi> Prejudge not the expreſſion, until I clear it. The power in God and in the Magiſtrate is the ſame; God rules by his own power, and a Magiſtrate ruleth by Gods Power; ſo that in both, the Power is Divine; onely with this difference, in God the Power is Connate and Inherent, in a Magiſtrate but Deriva<g ref="char:EOLhyphen"/>tive: yet their Power, becauſe their ſubſtitution is Di<g ref="char:EOLhyphen"/>vine, is of the ſame ſtamp and impreſſion: They are <hi>Dei Vicarii,</hi> his Deputy Lieutenants; they are the Fin<g ref="char:EOLhyphen"/>gers of that Hand which ruleth the World. The Apoſtle is very expreſſe for it, <hi>Rom.</hi> xiii. 1. <hi>All powers that be, are of God,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of God,</hi> not onely as all other Creatures, that are the Works of his hands: So <hi>of him</hi> are all things; take in the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text; and that will tell us they are <hi>of him,</hi> not onely as Men, but as Magiſtrates; not onely by Creation, but <hi>Inſti<g ref="char:EOLhyphen"/>tution;</hi> by Supreme Ordination over men, they are not oney <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> too, in the ſtead of. As God told <hi>Moſes</hi> he ſhould be to <hi>Aaron, in stead of God.</hi> As Miniſters beſeech, Magiſtrates command, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in Chriſts stead.</hi> They muſt needs be <hi>Gods</hi> before us, that are the Repreſentatives of <hi>God</hi> above us; in whoſe Tranſactions God himſelf is concern'd; as the Prince is in all the actions of his Miniſter of State; what they do in diſcharge of their duty, they do by him; and what they do, he is ſaid to do: The Judgement is
+<pb n="22" facs="tcp:49542:14" rendition="simple:additions"/>Gods, <hi>Deut.</hi> i. 17. and <hi>David</hi> is ſaid upon this account to ſit upon <hi>Gods</hi> Throne, 2 Chron. ix. 8. And <hi>Solomon,</hi> although he ſat upon the Throne of his Father <hi>David,</hi> yet he is ſaid to ſit <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſuper ſolium Iehovah,</hi> upon the Throne of <hi>Iehovah.</hi> They muſt be <hi>Gods,</hi> that ſit upon Gods Throne: Hence all the injuries that are done to them, devolve upon God himſelf; <hi>Ye mur<g ref="char:EOLhyphen"/>mur not againſt us, but against God, Numb.</hi> xvi. 11. Hence God and the Magiſtrate are joyned together in the ſame Law of Obligation and Obedience. <hi>He that obeyeth not the Law of God, and the Law of the King, let judgement be executed upon him, Ezra</hi> vii. 26. The Commands of Magiſtrates carry in them a God-like So<g ref="char:EOLhyphen"/>veraignty, not onely over the bodies, but over the ſouls and conſciences of men; not onely <hi>per concomi<g ref="char:EOLhyphen"/>tantiam,</hi> as the Schools ſpeak, but where their Com<g ref="char:EOLhyphen"/>mands croſſe and check not, the Law of God himſelf, either in the particular Commands, or in the general Rules: Of it St. <hi>Paul</hi> ſaith, <hi>Rom.</hi> xiii. 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lepevery</hi> Soul <hi>be ſubject to the Higher Powers.</hi> Some will ſay, <hi>Soul</hi> there, is taken for the <hi>Perſon,</hi> or <hi>Whole Man,</hi> be it ſo; then it takes in the <hi>Soul</hi> as well as the <hi>Body:</hi> but the Apoſtle further explains himſelf; as his own Comment, <hi>Col,</hi> 3.22. where he reading a Lecture of ſubjection and obedience to inferiours, ſaith, <hi>Not with eye-ſervice, as men-pleaſers, but in ſingleneſs of heart, fearing God, do it</hi> heartily, <hi>as unto the Lord;</hi> heartily, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he tells us there what he meant by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>every ſoul be ſubject;</hi> that is, from the <hi>heart</hi> or <hi>ſoul;</hi> true it is, that none can bind the ſoul or con<g ref="char:EOLhyphen"/>ſcience, but God himſelf; but then we muſt take in
+<pb n="23" facs="tcp:49542:14"/>God in the Magiſtrate. When the Magiſtrate com<g ref="char:EOLhyphen"/>mands, it's not man in the Magiſtrate, but God in the Magiſtrate that obligeth: he hath Gods power, and becauſe Gods power binds, a Magiſtrates doth alſo. So runs the Texts, Obey <hi>fearing God,</hi> and <hi>as to the Lord,</hi> and <hi>for the Lords ſake,</hi> and let St. <hi>Paul</hi> be Doctor <hi>in Cathedra,</hi> and he will ſoon determine the Caſe, <hi>Rom.</hi> 13.5. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not for wrath meerly to ſecure the body from puniſhment, and to avoid mans diſpleaſure; but for <hi>conſcience ſake,</hi> out of the ſenſe of the divine ob<g ref="char:EOLhyphen"/>ligation: and what's the Engliſh of all this but this, That the Commands of Magiſtrates that are lawful by virtue of Gods power, with which the powers on Earth are veſted, do bind the Conſcience for Gods ſake: Thus they are Gods, as acting by his Power.</p>
+            <p n="2">2. <hi>Identitate tituli;</hi> They are dignified with the ſame Titles, <hi>as the reſult of an oneneſſe of Power,</hi> except be<g ref="char:EOLhyphen"/>fore excepted. We muſt give God leave to ſay to them, as <hi>Pharaoh</hi> to <hi>Ioſeph; Onely in the Throne I will be greater then thou, Gen.</hi> xli. 40. He hath a Name and a Glory, which he gives to none other. But it's worth our obſervation, that all along in the Holy Writ, the ſame Titles that are given to God, are alſo given to the Magiſtrate; whereby they may be called Gods, to give you a taſte of ſome of many.</p>
+            <p n="1">1. To begin with that which is <hi>magnale Dei,</hi> that uncontrollable power; that <hi>abſoluta potestas,</hi> by which he acteth, and is by reaſon of it ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">
+                  <hi>Rom.</hi> 9.21.</note> as the <hi>potter hath power over the clay.</hi> And his Sovereignty is ſuch, that he hath <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Times and
+<pb n="24" facs="tcp:49542:15"/>Seaſons in his own power,</hi> Acts i. 7. And <hi>David</hi> ſaith <hi>Pſa.</hi> lxii. 2. Twice have I heard that <hi>power</hi> belongs to God. The <hi>Aethiopick</hi> Verſion and Vulgar Latine hath it, <hi>Pote<g ref="char:EOLhyphen"/>stas Dei eſt;</hi> inſomuch, That God in Scripture is called <hi>Power, Mat.</hi> xxvi. 64. that voice that came from God in one Text, is ſaid to come from the right hand of <hi>power.</hi> If God be called <hi>power,</hi> the Magiſtrate is no leſs. They are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> too, all <hi>powers</hi> that be are of God, <hi>Rom.</hi> xiii. 1. Be ſubject to <hi>powers,</hi> and obey Magiſtrates, <hi>Tit.</hi> iii. 1. God in reſpect of abſolute Dominion is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that men may know the heavens rule, and Chriſt is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Prime of the Kings of the earth.</hi> And Magi<g ref="char:EOLhyphen"/>ſtrates are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>principalities, Tit.</hi> iii. 1. and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> xiii. 3. <hi>Rulers.</hi> God by reaſon of his ſtrength is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Magiſtrates are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Thus we find it <hi>Acts</hi> xxiii. 26. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith <hi>Claudius</hi> to <hi>Felix.</hi> God is called in holy Writ, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the only <hi>Po<g ref="char:EOLhyphen"/>tentate;</hi> the Magiſtrates no leſs, they are <hi>Potentates</hi> al<g ref="char:EOLhyphen"/>ſo. He hath put <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Potentates from their ſeats, Luke</hi> i. 52. God in Scripture is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>glory,</hi> not onely God of glory, but glory it ſelf: as the Prophet, <hi>Jer.</hi> ii. 11. <hi>The nations change their God, but Iſrael change their glory.</hi> And that voice which came from God, is ſaid to come <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 <hi>Pef.</hi> i. 17. from the <hi>excellent glory.</hi> And Magiſtrates are ſo alſo,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 2.10.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, blaſpheming the glories. God is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Primas,</hi> one who hath the primacy not onely in time, but order, and is as much as preheminence; as Chriſt is ſaid to have, <hi>Col.</hi> i. 18. Magiſtrates ſo alſo, they are <hi>Primates,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the chief of the people, <hi>Luke</hi> xix. 47. God is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lord;</hi> its
+<pb n="25" facs="tcp:49542:15"/>his frequent Title, as ſupreme Moderatour: and they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Cor.</hi> viii. 5. <hi>Lords many.</hi> God is cal<g ref="char:EOLhyphen"/>led <hi>Pſal.</hi> xcii. 8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the High One:</hi> they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>High Ones of the earth, Iſa.</hi> x. 33. God is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Great One;</hi> and they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Great Ones, Jer.</hi> v. 5. God is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Medicus, a Phyſitian,</hi> to bind up wounds, and to give health and cure, <hi>Pſal.</hi> cxlvii. 3. and the Magiſtrate is ſo called, <hi>Iſa.</hi> iii. 7. <hi>a Healer,</hi> binding up the wounds of the body po<g ref="char:EOLhyphen"/>litick: as we ſee they come in their annual Circuits, <hi>Spring,</hi> and <hi>Fall,</hi> to give us phyſick. God is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>Saviour</hi> all the Scripture over, that ſaves his people by the greatneſs of his power: and the Judges and Ru<g ref="char:EOLhyphen"/>lers were called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Saviours, Neh.</hi> ix. 27. God is the <hi>breath of our noſtrils,</hi> becauſe in him we live, and move: and he gives life and breath. And as <hi>Job</hi> xxxiii. 4. "The breath of the Almighty gives us life: and the Magiſtrate comes herein near God himſelf, in preſerving a politick life. He is called the <hi>breath of our noſtrils, Lam.</hi> iv. 20. <hi>The breath of our nostrils was taken in their pit.</hi> God in Scripture is called a <hi>Shield, Pſal.</hi> lxxxiv. and Magiſtrates no leſs, <hi>Pſal.</hi> xlvii. laſt, <hi>The ſhields of the earth belong unto God.</hi> God is called the <hi>Father,</hi> and Chriſt is called the <hi>everlasting Father, Iſa.</hi> ix. 6. the Magiſtrate is no leſs amongſt men, they are called <hi>nurſing Fathers, Iſa.</hi> xlix. 23. <hi>I will make Kings thy nurſing Fathers.</hi> God is called a <hi>Shepherd, Pſal.</hi> xxiii. 1. and Chriſt is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>chief Shepherd:</hi> the Magiſtrates are cal<g ref="char:EOLhyphen"/>led <hi>Shepherds</hi> alſo, <hi>Iſa.</hi> xliv. 28. <hi>Ezek.</hi> xxxiv. 23. <hi>David</hi> and <hi>Cyrus</hi> as Princes and Rulers are called Gods, and the peoples Shepherds: Gods, as inſtituted by him;
+<pb n="26" facs="tcp:49542:16"/>and the people as ſet over them, by their tutelage to defend them as a flock. God is called in Scripture, the <hi>Foundation</hi> that bears up the world, and the pillars of it: and Chriſt is called a <hi>Foundation,</hi> and a Corner-ſtone: and Magiſtrates are called <hi>Foundations</hi> alſo, <hi>Mie.</hi> vi. 2. Hear the Lords controverſie, ye <hi>strong Foundati<g ref="char:EOLhyphen"/>ons of the earth;</hi> and in the Text, All the <hi>Foundations</hi> of the earth are out of courſe, <hi>Pſal.</hi> lxxxii. 5. And needs muſt they be <hi>Foundations,</hi> when in the next world he ſaith, They are Gods. But of this no more. But that re<g ref="char:EOLhyphen"/>ceived rule of <hi>Mollerus</hi> upon the Text,<note place="margin">Wollerus.</note> 
+               <hi>Hos vobis attri<g ref="char:EOLhyphen"/>bui titulos, ut propter muneris ſocietatem nominis mecum gereretis communitatem,</hi> bringing in God himſelf ſpeak<g ref="char:EOLhyphen"/>ing to the Magiſtrates. In this wiſe I have dignified you with all titles of Honour, that it may appear, <hi>becauſe of the aſſociation of Office and Power, you bold a community of names and titles with my ſelf,</hi> and ſo ye are Gods.</p>
+            <p n="3">3. <hi>Identitate Operis,</hi> an oneneſs of work and imploy<g ref="char:EOLhyphen"/>ment. The Magiſtrate here may ſay as Chriſt: <hi>Hither<g ref="char:EOLhyphen"/>to my Father worketh, and I work.</hi> They are Chil<g ref="char:EOLhyphen"/>dren of the moſt High in the Text, and they do their Fa<g ref="char:EOLhyphen"/>thers work. God doth his own work, where he under<g ref="char:EOLhyphen"/>taketh to judge; for Judgement is his: and the Magi<g ref="char:EOLhyphen"/>ſtrate doth Gods work in executing Judgement; <hi>Accur<g ref="char:EOLhyphen"/>ſed be he that doth the work of the Lord negligently, Jer.</hi> xlviii. 10. <hi>Propriè de Magistratibus &amp; Judicibus dici<g ref="char:EOLhyphen"/>tur,</hi> ſaith <hi>à Lapid.</hi>
+               <note place="margin">Cornel. à Lapid. in loc.</note> upon that Text. It is meant <hi>properly of Judges and Magiſtrates.</hi> The work of a Magiſtrate is Judgement and Juſtice, <hi>Ier.</hi> xxiii. 5. its ſpoken of Chriſt, its true; but as ſitting upon the Throne of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> as a Prince, he ſhall execute Judgement and Ju<g ref="char:EOLhyphen"/>ſtice,
+<pb n="27" facs="tcp:49542:16"/>And this is Gods work alſo, not onely in his own hands, but in theirs. The work in his own hands we find <hi>Deut.</hi> x. 18. He <hi>executeth Judgement.</hi> And this work in their hands we find <hi>Deut.</hi> xxxiii. 21. <hi>He execu<g ref="char:EOLhyphen"/>teth the justice of the Lord.</hi> When God by the Apoſtle ſaith, <hi>Rom.</hi> xii. 19. Avenge not, he meaneth, <hi>Non de Ju<g ref="char:EOLhyphen"/>diciis publicis, ſed de Praejudiciis privatis.</hi> And when he ſaith <hi>Vengeance is mine, and I will repay it;</hi> he means either by his own hand immediately, or by his Vice-ge<g ref="char:EOLhyphen"/>rents: for <hi>
+                  <g ref="char:V">Ʋ</g>ltio Magiſtratus eſt Dei ultio, &amp; quum re<g ref="char:EOLhyphen"/>pendit Magiſtratus, rependit &amp; ipſe Deus,</hi>
+               <note place="margin">Spanheus. in Rom. <hi>12.19.</hi>
+               </note> ſaith <hi>Spanhe<g ref="char:EOLhyphen"/>mius.</hi> The revenge of a Judge is Gods revenge, and when the Magiſtrate repayeth, it is God that repayeth by him. So ſaith the Apoſtle <hi>Rom.</hi> xiii. 4. <hi>The Miniſter of God a revenger to execute wrath. Jehoſhaphat</hi> ſet Judges over the people, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for the Judgement of the Lord. God as the Judge of the world hath his ſword in his hand, and Chriſt as that man by whom God ſhall judge the world, hath his ſword by his thigh, <hi>Pſal.</hi> xlv. and the Magiſtrate becauſe he bears a ſhare in the works of Judgement alſo, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he beareth the ſword. And its the ſword of the Lord, and the ſword of <hi>Gideon,</hi> Whatever acts of Judgement are mentioned in Scripture as to deliver the poor, and him that hath no help: to make the Widows heart to ſing, to be eyes to the blind, and feet to the lame; to be a Father to the poor, to break the jawes of the wicked, to maintain right, to re<g ref="char:EOLhyphen"/>lieve the oppreſſed, to be encouragement to the good, and terrour to the bad, and to give every man accord<g ref="char:EOLhyphen"/>ing to his deeds, are mutually ſpoken of God and a Ma<g ref="char:EOLhyphen"/>giſtrate in Scripture. A Magiſtrates ſeat is the habitati<g ref="char:EOLhyphen"/>on
+<pb n="28" facs="tcp:49542:17"/>of Juſtice, <hi>Ier.</hi> xxxi. 23. and Judgement the habi<g ref="char:EOLhyphen"/>tation of his Throne, <hi>Pſal.</hi> lxxxix. 14. Hence the Ma<g ref="char:EOLhyphen"/>giſtrate is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> xiii. 5. <hi>Minister of God,</hi> a ſer<g ref="char:EOLhyphen"/>vant employed about his Maſters Work. <hi>Are ye not a<g ref="char:EOLhyphen"/>fraid to ſpeak againſt my ſervant, againſt Moſes?</hi> The work is the ſame, and hence they are Gods.</p>
+            <p n="4">4. <hi>Identitate finis,</hi> both directed to the ſame end. God is his own Center, and God is or ſhould be a Ma<g ref="char:EOLhyphen"/>giſtrates Center. Gods actions are all for himſelf, and all the actions of a Magiſtrates ſhould be for God: <hi>Ye judge not for man, but for the Lord,</hi> is the Problem of <hi>Iehoſhaphat</hi> to his Judges, 2 <hi>Chron.</hi> xix. 6. The Queen of <hi>Sheba</hi> could tell <hi>Solomon,</hi> that God had ſet him up King <hi>for the Lord his God,</hi> 2 <hi>Chron.</hi> ix. 8. And God ſaith to <hi>David</hi> as a Magiſtrate, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Lord hath ſought a man <hi>for himſelf,</hi> after his own heart. And <hi>David</hi> ſaith concerning <hi>Solomon,</hi> in Type pointing at the end of all Government, <hi>That his glorious Name may be magnified, and the Earth may be filled with his glory, Pſal.</hi> lxxii. 19. that <hi>Solomon</hi> might be to Chriſt, as Chriſt to God; ſo a Magiſtrate to both; be their lively Effigies to perpetuate the memory of a God of Judge<g ref="char:EOLhyphen"/>ment: That in <hi>Solomon</hi> as a righteous Magiſtrate, his Name might continue for ever, verſe 17. but it is in the Text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>filiabitur nomen ejus,</hi> that as the Fa<g ref="char:EOLhyphen"/>ther liveth in his Son, the Son taking both Name and Thing from him; ſo the Magiſtrate might be to God; that God might live in them as in his own Children; they receiving both Name and Thing from him: which will lead us to the expreſſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text: which will in few words conclude the Judges Commiſſion, and
+<pb n="29" facs="tcp:49542:17" rendition="simple:additions"/>clear it as in the Text, <hi>I have ſaid Ye are Gods,</hi> and <hi>Children of the Moſt High.</hi>
+            </p>
+            <p>Thus <hi>My Lords</hi> I have been long in reading your Commiſſion, becauſe ſomething obſcure; but I hope I have done it ſo clearly, that no one can ſcruple one ſyllable of it; where I have diſcharg'd my ſecond Task. There remains a Third, which is to give a ſhort Charge from the Lord, who ſaith, <hi>You are Gods:</hi> For which I humbly beg your Honourable patience, and I ſhall leave you to God and your Work; and this in the Application of the Text.</p>
+            <p>
+               <hi>I have ſaid Ye are Gods.</hi> My Lords, This Text tells us ſo, and it tells you ſo, <hi>That You are Gods.</hi> As it tells ſo, it preſents us with what we owe to you: As it telleth you ſo, it preſents you with what you owe both to God and us.</p>
+            <p n="1">1. It telleth us ſo, and herein we are taught what we one the Magiſtrate, <hi>viz.</hi> To owne his power, and to yield obedience for the Lords ſake; notwithſtand<g ref="char:EOLhyphen"/>ing that Inhibition of the Apoſtle, <hi>Owe no man any thing, Rom.</hi> xiii. 8. his meaning is, owe not ſo, as not to pay, he is his own Interpreter, <hi>Render to every man his dues, honour to whom honour.</hi> Obedience to Ma<g ref="char:EOLhyphen"/>giſtrates is a debt that we muſt be always paying, and yet always owing. <hi>Goe unto Caeſar the things that are Cae<g ref="char:EOLhyphen"/>ſars.</hi> That dream of the degenerate <hi>Aeſſeans,</hi> who taught the people to own no Power or Ruler, but onely God himſelf; muſt not paſſe either for Tradition, or Do<g ref="char:EOLhyphen"/>ctrine with Chriſtians; becauſe it gives ſo clear a Check to the Apoſtle: Who ſaith, <hi>Let every ſoul be ſubject to the higher powers, Rom.</hi> 13.1. They that cry no King
+<pb n="30" facs="tcp:49542:18"/>but <hi>Caeſar,</hi> denying God his Supremacy over man, and they that cry no King but <hi>Ieſus,</hi> denying man his Supremacy under God, do both erre, not knowing the Scriptures, and the power of God. Unhappy Le<g ref="char:EOLhyphen"/>vellers, that would thus make plain thoſe Mountains, that ſhould bring forth Righteouſneſs, and the Hills that ſhould bring forth peace unto the people, <hi>Pſal.</hi> lxxii. 3. That man that can ſcruple mans power under God, will in time ſcruple Gods power overman. To ſpeak evil of <hi>Rulers</hi> is bad and forbidden, <hi>Exod.</hi> xxii. 28. but to ſpeak evil of <hi>Dignities,</hi> and deſpiſe <hi>Dominion,</hi> and ſo to ſtrike a blow at the root, is far worſe, <hi>Iude</hi> viii. and is that ſpirit that the Apoſtle told us ſhould actuate the laſt and the worſt of time. Subjection is every where commanded, and therein Dominion and Rule is founded. It is a weak miſtake, that becauſe the Apoſtle ſaith <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Pet.</hi> 2.13. <hi>Obey every Ordinance of man;</hi> therefore Magi<g ref="char:EOLhyphen"/>ſtracy muſt be a <hi>humane Ordinance;</hi> and as it receives it riſe, ſo it may be laid aſide, according to mans plea<g ref="char:EOLhyphen"/>ſure. A bad Comment upon ſo good a Text. The Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> being witneſſe, <hi>Rom.</hi> xiii. 2. who ſaith it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Ordinance of God,</hi> and he that reſiſts, reſiſts the Ordinance of God. Particular Ordinances may be humane, but the Fundamental Ordinance, which gives life to the power, muſt be divine; or let Magiſtracy be <hi>Objectively, Subjectively, and Termina<g ref="char:EOLhyphen"/>tively</hi> Humane; yet <hi>Originally</hi> it muſt be Divine: Dominion and Soveraignty is part of the Image of God; whence Man in reſpect to his power over the Woman, is called the <hi>Image of God,</hi> 1 <hi>Cor.</hi> 11.7. And certainly none
+<pb n="31" facs="tcp:49542:18"/>can impart the Image of God, but God himſelf; and the clearer we ſee the lines of Dominion and Power drawn over any Perſon, the nearer he comes to the Dei<g ref="char:EOLhyphen"/>ty. And it ſhould be a <hi>Noli me tangere</hi> to all tongues and hands of violence, <hi>Touch not mine anointed.</hi> It is ſto<g ref="char:EOLhyphen"/>ried that <hi>Phydias</hi> a Painter at <hi>Athens,</hi> did ſo curiouſly intermix the Picture of <hi>Minerva</hi> the Goddeſſe and his own together, that no one could deface the one, but they muſt deface the other; hereby expecting that the Picture of the Goddeſſe ſhould be the dreadful Pro<g ref="char:EOLhyphen"/>tectrix of his Effigies. But ſure we may be, that God hath ſo curiouſly enamel'd his Own and Mans Image together in a Magiſtrate, that none can deface the one, but they muſt deface the other; hereby expecting that his Image on a Magiſtrate, ſhould be the Dreadful Protector of his Perſon and Power. Let no bold hand invade or uſurp Chriſts Charter, which is to put down all <hi>Power, Authority, and Rule;</hi> as 1 <hi>Cor.</hi> xv. 24. for Chriſt himſelf is to do it: when all derivations muſt re<g ref="char:EOLhyphen"/>vert into their Original, and he will call in all his Com<g ref="char:EOLhyphen"/>miſſions, and Chriſt himſelf muſt ſurrender. That will be to make God <hi>All in All;</hi> but for man to preoccu<g ref="char:EOLhyphen"/>pate Chriſt in that work, will make God <hi>Nothing at all.</hi>
+            </p>
+            <p>Thoſe <hi>filthy dreamers</hi> the Apoſtle ſpeaks of <hi>Iude</hi> viii. who <hi>deſpiſe Dominions, dreamers</hi> they are, and <hi>filthy ones;</hi> alſo they do but dream; becauſe the Scripture <hi>cannot be broken.</hi> We read of two Rods the one of <hi>Moſes,</hi> the other of <hi>Aaron.</hi> The Rod of <hi>Moſes</hi> as a <hi>Prince,</hi> the Rod of <hi>Aaron</hi> as a <hi>Prieſt.</hi> The Rod of <hi>Moſes</hi> as a Prince, ſwallowed up all the Rods of the
+<pb n="32" facs="tcp:49542:19"/>Magitians, <hi>Exod.</hi> vii. 12. and the Rod of <hi>Aaron</hi> bloſſom'd and brought forth ripe Almonds, without Earth, <hi>Numb.</hi> xvii. 8. to ſhew that theſe two, <hi>Moſes</hi> and <hi>Aaron;</hi> or as <hi>Zach.</hi> iii. and iv. Chapters, <hi>Zerubbabel and Joſhua,</hi> Magiſtracy and Miniſtry are thoſe two Sons of Oil, which as <hi>Zach.</hi> iv. 12. as two golden pipes, empty the Golden Oil out of themſelves, and are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſtand<g ref="char:EOLhyphen"/>ing Pillars, that ſhall ſtand before the Lord of the whole Earth. And men ſhall find it as eaſie to diſanul the Law, that the God of Nature hath made be<g ref="char:EOLhyphen"/>twixt Day and Night, Summer and Winter, as to re<g ref="char:EOLhyphen"/>verſe that Covenant that he hath made with <hi>David</hi> his ſervant as a Prince, and the Prieſts his Miniſters, <hi>Ier.</hi> xxxiii. 20, 21. and thus they are dreamers. But they are <hi>filthy</hi> ones alſo, thus the Apoſtle calls them; they defile the fleſh, <hi>Jude</hi> viii. and therefore deſpiſe domi<g ref="char:EOLhyphen"/>nion, that there might be no heir of reſtraint, to be a terrour to the evil; thus making proviſion for the luſts of the fleſh; that as when no King in <hi>Iſrael,</hi> they may do <hi>every one what is good in his own eyes:</hi> thus they are filthy dreamers. And it would do well for men to con<g ref="char:EOLhyphen"/>ſider that the Rod of <hi>Moſes,</hi> when it was thrown upon the ground, was turn'd into a Serpent, <hi>Exod.</hi> iv. 3, 4. Let us take a ſurvey of that Text, <hi>And heſaid, cast it on the ground, and it became a Serpent, and Moſes ſled from before it; and the Lord ſaid put forth thine hand and take it by the tail, and he put forth his hand and caught it, and it became a Rod in his hand.</hi> We have ſeen the lively Comment upon this Text. The Rod of our <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> hath been thrown to the ground; our eys have ſeen it, and it then became a Serpent, and we have felt it;
+<pb n="33" facs="tcp:49542:19"/>and our <hi>Moſes</hi> himſelf fled from before it, and we la<g ref="char:EOLhyphen"/>mented it; but now God (through mercy) hath ina<g ref="char:EOLhyphen"/>bled him to take that Serpent by the tail; he hath caught it, and it became a Rod again, and a ſtrong Rod to rule, and our ſouls rejoyce in it. But hence let all know, that <hi>Moſes</hi> Rod caſt upon the ground, will become a Serpent, and that will carry a ſevere ſting in the tail of it, <hi>They that reſist, ſhall receive to themſelves damnation.</hi>
+            </p>
+            <p n="2">2. The ſecond Application will run ſomething more ſpecial to thoſe that are concern'd in matters of Judge<g ref="char:EOLhyphen"/>ment this day, whether they be to ſtand before, or to ſit upon the Seat of Judgement. And firſt to thoſe that are to ſtand before it, either as <hi>Plaintiſſe, Defendant, Witneſſes, Council, or Iury.</hi> I know the claims of Cu<g ref="char:EOLhyphen"/>ſtome, and the great Concerns in Judgement, call for a particular word to every one of theſe. I ſhall not be ſo prodigal of that little time I have left, as to expati<g ref="char:EOLhyphen"/>ate too much upon every Topick or Common Place; onely I ſhall make uſe of this one Director in the Text, unto them all ſucceſſively, which may help them in the matters of Judgement, and it's this. He hath ſaid they are Gods, act by his Power, are imployed in his Work, the Judgement is Gods, and God is with them in Judgement, 2 <hi>Chron.</hi> xix. 6. and God judgeth and ſtandeth in the Congregation of the Gods, <hi>Pſal.</hi> lxxxii. 1, 2. Therefore my advice to you all, in what relati<g ref="char:EOLhyphen"/>on ſoever you ſtand, as it's given to my hand, is this, <hi>Deut.</hi> xix. 17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. As the Arabick verſion reads <hi>Sistent ſecoram Iehovah.</hi> Let them ſet themſelves before the Lord. So ſpeak, and ſo do, as before the
+<pb n="34" facs="tcp:49542:20"/>Lord, and as 2 <hi>Chron.</hi> xix. 7. <hi>Let the fear of the Lord be upon you, take heed and do it.</hi>
+            </p>
+            <p n="1">1. To you who are Plaintiffs and Defendants, whom the <hi>Jewes</hi> call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Viri litis.</hi> I hope it is not ac<g ref="char:EOLhyphen"/>cording to the proper Idiom of the language, which in<g ref="char:EOLhyphen"/>tends the ſignification, that you will prove your ſelves <hi>litigious</hi> and <hi>contentious</hi> men, or men <hi>of contention.</hi> Yet you muſt know, that in all Law-contentions, there muſt be either an unjuſt complaint, or an unjuſt defence: and there lyes the contention; to you I ſpeak, who have any Cauſes to be heard before the <hi>Gods</hi> this day: Know that it is before the Lord you bring your controverſies. Let them then be worthy ſuch an inſpection, to whom it is iniquity and a grievance, to find men to be the raiſers of ſtrife and contention, <hi>Hab.</hi> i. 2. Indeed the ancient <hi>Jews</hi> have a ſaying, <hi>Cui eſt Judicium cauſa, ant lis accedat Ju<g ref="char:EOLhyphen"/>dicem;</hi> and its but the tranſcript of the divine rule, and that gives the true Engliſh of it, <hi>Deut.</hi> xix. 17. <hi>Both the men between whom the controverſie is, ſhall stand before the Lord, and before the Judge.</hi> But then you muſt know, they muſt be neither the Apoſtles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor the Prophets <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, neither the ſmalleſt matters, 1 <hi>Cor.</hi> vi. 2. nor unrighteous actions. <hi>Iſa.</hi> x. 1. neither trivial nor unjuſt; we ſhould not trouble Gods Tribunal with that which wants either weight or right, ſuch are better com<g ref="char:EOLhyphen"/>pounded then carried, the one being againſt the Maje<g ref="char:EOLhyphen"/>ſty, the other againſt the Juſtice of that righteous Judge who ſtandeth amongſt the Gods. Petty Suits are the ſcab, and unjuſt ones the leproſy of Judicature; we muſt not cut out work for the Judge that needs not, much leſs that which ought not. An ancient Complaint, or an un<g ref="char:EOLhyphen"/>juſt
+<pb n="35" facs="tcp:49542:20"/>defence, are equally harſh in his eares who is a God of truth and equity. Carry therefore all thy Cauſes to the balance of the Sanctuary, and the Bar of thine own Conſcience, before thou bringeſt them to Gods Tribu<g ref="char:EOLhyphen"/>nal, let them be thy Grand Jury, and if they return <hi>Igno<g ref="char:EOLhyphen"/>ramus,</hi> let them die. It is good advice that is given thee by the wiſeſt of men, <hi>Eccleſ.</hi> viii. 3. <hi>Stand not in an evil matter,</hi> ſtir not by complaint, ſtand not in it by defence; do but ask thy ſoul this Queſtion; Dare I commence this action before Gods dreadfull Tribunal, if not, what doth it here? If the pretended mother of the Child had thought that ſhe ſhould have had to do with a <hi>Solomon,</hi> a man of a large heart, ſhe would have deſiſted from her querulous falſities. But know that a greater then <hi>Solomon</hi> is here. Let a Spirit of Love and Peace, com<g ref="char:EOLhyphen"/>pound and take up. Let every man be willing to yield to right, though againſt himſelf. Man is not the Crea<g ref="char:EOLhyphen"/>ture that God hath made to live in the fire, it is true of Humane, as it is ſaid of Divine Laws, <hi>good if uſed law<g ref="char:EOLhyphen"/>fully,</hi> 1 <hi>Tim.</hi> i. 8. There is a Curſe that attends them, that delight in War; it's true of the Wars at the Barre, as well as thoſe of the Field. Theſe are the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which the Apoſtle ſpeaks of, <hi>James</hi> iv. 1. <hi>Wars and Fightings which come of our luſts.</hi> Turn not our <hi>Re<g ref="char:EOLhyphen"/>phidim</hi> into <hi>Meribah,</hi> our pleaſant Streams of Juſtice into the Waters of Strife; they will then be both <hi>Ma<g ref="char:EOLhyphen"/>rah</hi> 05 and <hi>Maſſah,</hi> bitter to us, and we ſhall tempt the Lord, and ſay, <hi>Is the Lord with us, yea or no.</hi> We need not doubt it, for his is the Judgement, and he is with you in Judgement.</p>
+            <p n="2">2. The Witneſſes may be directed here, and the
+<pb n="36" facs="tcp:49542:21"/>Text ſpeaks a word to you. Set you your ſelves before the Lord, before whom you ſpeak, and who weighs both your ſpirits and your words; you ſtand before the Lord, and the Oath of the Lord is upon you: your Evidence is <hi>Cynoſura Cauſae,</hi> and directs to Judgement, as the Chard doth the Mariners to his Port. Prevaricate not before the Lord, who can detect your falſity, and will revenge the injury: God before whom you ſpeak, is a God of Truth, and you had need be men of Truth, that you may appeal to God and ſay, as 2 <hi>Cor.</hi> xi. 31. <hi>God knoweth I he not:</hi> he is a Witneſſe to thy Teſtimony. It is a dreadful thing to tell a lie at the Barre, and call God to be a Witneſſe to it. The Anti<g ref="char:EOLhyphen"/>ent Jewes have a Saying, which will ſit us here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Qui vult mentiri amoveat testes ſuos,</hi> He that will tell a lie, muſt firſt remove his Witneſſes. Tell not therefore a lie at the Barre, until thou beeſt ſure, thou haſt removed God himſelf from the Barre. Look to the form of thy Oath, it is very full and perti<g ref="char:EOLhyphen"/>nent. <hi>The truth, the whole truth, and nothing but the truth.</hi> The truth without equivocation, the whole truth without mutilation, nothing but the truth with<g ref="char:EOLhyphen"/>out addition. For the Jews will tell thee, <hi>Tres veritatem dixerunt &amp; tamen perierunt, Serpens, Doeg, &amp; Explo<g ref="char:EOLhyphen"/>ratores.</hi> Three told truth, and yet periſhed, the <hi>Serpent, Doeg and the Spies,</hi> that went to ſearch out the Promiſed Land. The <hi>Serpent</hi> he told <hi>Eve</hi> that if they eat the fruit, God knew they ſhould be as <hi>Gods,</hi> knowing good and evil; it was truth, but not without <hi>equivo<g ref="char:EOLhyphen"/>cation:</hi> they underſtood him of <hi>notional,</hi> but the De<g ref="char:EOLhyphen"/>vil meant it of <hi>experimental</hi> knowledge: and hence he
+<pb n="37" facs="tcp:49542:21"/>is called a <hi>liar</hi> from the beginning, <hi>John</hi> viii. 44. <hi>Doeg</hi> told <hi>Saul</hi> that <hi>Ahimelech the Prieſt inquired of the Lord for David, gave him victuals, and the ſword of Goliah the Philiſtine,</hi> 1 <hi>Sam.</hi> xxii. 9. And this was truth, but not the whole truth, had he told <hi>Saul</hi> that <hi>David</hi> told <hi>Ahi<g ref="char:EOLhyphen"/>melech</hi> that <hi>Saul ſent him about ſome important buſineſs,</hi> he had ſaved the lives of many of the Prieſts of the Lord: and therefore <hi>Doeg</hi> is marked with the brand of a lying and deceitfull tongue, <hi>Pſal.</hi> lii. 3, 4. The <hi>ſpies</hi> told the Iſraelites there were <hi>Gyants in the Land,</hi> and it was truth: but they did it with aggravation, and ſaid it was not poſſible to overcome them, and poſſeſs the Land; and ſo they told more then the truth. They are herein ſaid to bring <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>a lying report,</hi> or a ſlander up<g ref="char:EOLhyphen"/>on the Land, and they periſhed, <hi>Numb.</hi> xiv. 36, 37. What thou ſpeakeſt before the Judge, thou ſpeakeſt before God. Let not this Teſtimony come out of deceitfull lips, leſt whilſt the Judge cannot detect thee, God comes to charge thee, (as he did by <hi>Peter</hi> to <hi>Ananias</hi>) <hi>Why hath Satan filled thy heart to lye to the Holy Ghost, Acts</hi> v. Tremble to think that God may by ſome amazing Judgement tell thee and the world, thou lyeſt. The <hi>Jewiſh</hi> Adage tells thee, <hi>Qui loquitur lingua mala, perin<g ref="char:EOLhyphen"/>de est, ac ſi abnegaret Deum, &amp; peccat &amp; in coelum, &amp; in terram,</hi> He that ſpeaks with an evil-lying, or deceitful Tongue, <hi>is as if he denied God himſelf, and ſins both a<g ref="char:EOLhyphen"/>gainſt Heaven and Earth.</hi> Remember that command that chargeth thee not to <hi>bear falſe witneſs againſt thy neighbour.</hi> Let not fear, malice, hope of gain, draw a falſe Teſtimony from thee, to draw thee into a perniti<g ref="char:EOLhyphen"/>ous lye. Know that <hi>mendacii merces vilis eſt,</hi> the wages
+<pb n="38" facs="tcp:49542:22"/>of a lye is very diſhonourable, a falſe witneſs being one of thoſe ſix things which God abhors, and he that telleth lyes is one of thoſe that ſhall not eſcape, <hi>Prov.</hi> vi. 19. and xix. 5.</p>
+            <p n="3">3. The Text ſpeaks a word to you, Gentlemen, that are of the <hi>Counſel,</hi> you that are <hi>Magna Legis Oracula,</hi> the great Oracles of the Law, whom we conſult, <hi>as of old,</hi> with whom, when, and how we ſhould go to war. You are to the Judge in Civils, what <hi>John Baptist</hi> was to <hi>Chriſt</hi> in Spirituals, <hi>his fore-runner to prepare his way;</hi> and you do it well, if you make <hi>crooked things straight</hi> be<g ref="char:EOLhyphen"/>forehand. You may do it in your Counſel-giving, and in your Pleading at the Bar: and in both conſider, that what you ſpeak to man, you ſpeak alſo before that God that knoweth well that the hand of <hi>Joab</hi> is in the cauſe, and can point out the very men that <hi>deviſe miſchiefs, and give wicked Counſel in the City, Ezek.</hi> xi. 2. Your work is honourable, <hi>Chriſt</hi> ſtiles himſelf the <hi>Counſellour,</hi> and its the greateſt truſt that you are capable of, for you to give Counſel, and we to follow it in our greateſt tempo<g ref="char:EOLhyphen"/>ral concerns. Therefore give it liquidly and faithfully, as before the Lord; <hi>liquidly and clearly,</hi> not as the Ora<g ref="char:EOLhyphen"/>cles of old, of whom it was ſaid, <hi>Obſcuris ambagibus re<g ref="char:EOLhyphen"/>ſponſa dabant,</hi> gave their anſwers aenigmatically and darkly, that men knew not how to reſolve them; give no uncertain ſound to the battel, how ſhall men then prepare themſelves to it. Give it faithfully alſo as God himſelf would, let every man ſee his cauſe through right perſpectives, encourage no man to take up a bad cauſe, ſound not a <hi>March</hi> when you ſhould ſound a <hi>Retreat,</hi> let not your Counſel be as <hi>Zedekiah</hi>'s to <hi>Ahab, Go up to
+<pb n="39" facs="tcp:49542:22"/>Ramoth-Gilead and proſper,</hi> when its <hi>Go up to Ramoth-Gilead and fall.</hi> Do not as the Oracles of <hi>Apollo</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>ſpeaks, as <hi>Philip</hi> would have it; let the Counſel of peace come from you, and if poſſible, let your advice be the period of every Cauſe, the end of Counſel is not ſtrife but ceſſation, 2 <hi>Sam.</hi> xx. 21. <hi>They asked Counſel at Abel, and ſo they ended the matter.</hi> Let us come to you as to the Oracles of God for truth and faithfulneſs. The Rabbinical Apophthegme is ſomething tart, <hi>Cave tibi ab co. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Qui conſulit tibi ſecundum viam ſuam,</hi> Beware of him that gives thee Counſel rather for his Commodity, then out of Conſcience, then <hi>Abſalom</hi> his Counſel will be given, <hi>every mans Cauſe will be right,</hi> and his adverſaries wrong: and ſo a man ſhall ſeem juſt in his Cauſe, till his neighbour come and ſearch him out, <hi>Prov.</hi> xviii. 17.</p>
+            <p>In your pleading at the Bar, Conſider that the Advocate or Counſel, the <hi>Jewes</hi> called him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> if from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>dulceſce<g ref="char:EOLhyphen"/>re,</hi> to <hi>ſweeten:</hi> then it tells you, you are by all your verbal ingredients to ſweeten the Law, &amp; not to turn it into gall and wormwood. But if from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>eludere,</hi> or <hi>deludere,</hi> then it tells you by an <hi>Antiphraſis,</hi> that you are not <hi>per verboru<g ref="char:cmbAbbrStroke">̄</g> aucupia &amp; tendiculas,</hi> as <hi>Tully</hi> ſpeaks, by cunning conſtru<g ref="char:EOLhyphen"/>ctions &amp; Artifices, to rack the Law, &amp; wreak the Innocent. You ſpeak before that God that gives you in charge, <hi>Exod.</hi> xxiii. 1, 2. <hi>Put not thine hand to the wicked, nei<g ref="char:EOLhyphen"/>ther ſhalt thou ſpeak in a Cauſe to wrest Judgement:</hi> not a word for a bad Cauſe, not a word againſt a good one; let neither the depth of an <hi>Achitophel,</hi> nor the flouriſhes of a <hi>Tertullus,</hi> neither Policy nor Oratory be employed againſt right and equity. Let not the Law which is the
+<pb n="40" facs="tcp:49542:23"/>hedge of common intereſt appear to be made onely of thorns to prick and wound; nor the cloud of Juſtice, which ſhould overſhadow and relieve us. Be like that which <hi>pluit ſuper eos laqueos</hi> is diſſolved into ſnares to in<g ref="char:EOLhyphen"/>volve us. Raiſe no duſt to darken a clear one, nor bring varniſh to help the paint of a foul Cauſe. The woman which ſits in the midſt of the Epha, which is wicked<g ref="char:EOLhyphen"/>neſs, <hi>Zach.</hi> v. 8, 9. having conceived and grown big, and now ready to bring forth; lend not your hand to deliver the monſter, where your judgement and conſciences conclude the cauſe bad. Let your tongues cleave to the roof of your mouths with St. Pauls reſolve, 2 <hi>Cor.</hi> xiii. 8. <hi>I can do nothing againſt the truth, but for the truth.</hi> Your Barre conteſts are <hi>Status Cauſae,</hi> where, as in our bodies the Diſeaſe and Nature, ſo here Right and Injuſtice are ſtriving for predominance; do but thus conclude, that you are pleading before Gods Tri<g ref="char:EOLhyphen"/>bunal; and then you will leave a bad cauſe to ſpeak for its ſelf.</p>
+            <p n="4">4. The Text directs a word to the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ury,</hi> you are ve<g ref="char:EOLhyphen"/>ſted with a ſacred power, and your Oath is a ſacred Bond. You are <hi>Judices facti,</hi> Judges of the fact, and im<g ref="char:EOLhyphen"/>mediately lead <hi>ad judicium Cauſae,</hi> to the judgement of the Cauſe. You are the perſons to whom all perſons con<g ref="char:EOLhyphen"/>cerned in judgement look; you are to look upon the Priſoner at the Bar, to you one directs his Complaint, and to you the other his Defence, to you the Witneſs directs his Evidence, and the Counſel their Plea; and the Judge for his Sentence looks to you, and God in judge<g ref="char:EOLhyphen"/>ment looks upon you; you had need look to your ſelves. Let God and the Countrey go together in your
+<pb n="41" facs="tcp:49542:23"/>Verdict, in truth, righteouſneſs, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your work to prepare an even way <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your Sentence of the fact, to the Judg<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Law. Your Verdict is <hi>Criſis Cauſae</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Cauſe. Let not Juſtice have a b<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> indication in that Critical hour, when you go from the Bar to conſult and return to give your Judgement; God is with you in both. Be not led aſide by fear, favour, or feud; be not per<g ref="char:EOLhyphen"/>ſwaded, affrighted, or bribed into a falſe Verdict: let not God nor the Gods finde from you a lazy or idle Ver<g ref="char:EOLhyphen"/>dict, hudled up to ſave the labour of weighing the evi<g ref="char:EOLhyphen"/>dence and circumſtances: nor a ſordid and covetous Verdict to take the advantage of more Cauſes. Act by Conſcience, not Contagion; by reaſon, not an im<g ref="char:EOLhyphen"/>plicite ſaith, <hi>Non quâ itur, ſed quâ cundum,</hi> let Conſci<g ref="char:EOLhyphen"/>ence ſpeak before your Foreman. Let not errour in Judgement lye at your doors. The <hi>Talmudists</hi> have a ſaying for you, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Nè Ju<g ref="char:EOLhyphen"/>dices proximum tuum donee pertigeris ad locum ipſius.</hi> Judge not thy Brother until thou haſt ſet thy ſelf in his ſtead. Bring no other Verdict againſt him, then thou wouldſt be willing he ſhould bring againſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee, or thou bring againſt thy own ſoul. In a word, let all perſons concerned in Judgement ſo ſpeak, and ſo do, as they may not through inadvertency have cauſe to ſay, as <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> did once, <hi>God is here, and I am not aware of it.</hi> The Text is your ſufficient Caution, he ſtands among the Gods, the Judgement is his; and therefore they are cal<g ref="char:EOLhyphen"/>led Gods.</p>
+            <p>Laſtly, the Text ſpeaks by way of ſpecial application <hi>my Lords,</hi> to you; the Judge is called by the Ancient
+<pb n="42" facs="tcp:49542:24"/>Jews <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Lord of Judgement,</hi> or the Judge of the Law. <hi>They ſhall stand before the Lord, before the Judge, Deut.</hi> xix. 17. your power is from him; your work tends to him; your perſons repreſent him; you are Gods, and your Judgement is his; and this the Text tells you; and therein what you owe both to God and us; in which I ſhall not be your Magiſterial Dictator, but your humble remembrancer. The Text telleth us, 1 <hi>Kings</hi> x. 19. that <hi>Solomon</hi> had a Throne that had ſix ſteps to it, and the Jews tell us further, that upon thoſe ſix ſteps there were inſcriptions, and upon every ſtep a remembrancer, that he might have his duty both in his eyes and eares. That when the King aſcended up the firſt, the Officer cried <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Wreſt not Judge<g ref="char:EOLhyphen"/>ment.</hi> When he went up the ſecond, the Officer cried, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Reſpect not perſons.</hi> When upon the third, he cried, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Take no bribes.</hi> And thus every ſtep, until he came to ſit down upon his Throne: that as in the Temple they had their <hi>Canticae graduum,</hi> Songs of degrees; ſo they had upon the Steps of the Throne <hi>Admonitions of degrees</hi> alſo. And this is no more then the <hi>Perſian King</hi> was wont to have one to cry <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Engliſh whereof I cannot give you in better terms, then in the words of <hi>Iehoſha<g ref="char:EOLhyphen"/>phat</hi> to the Judges, 2 <hi>Chron.</hi> 29.6. <hi>Take heed what ye do, ye judge not for man, but for the Lord. Let the fear of God be upon you, take heed and do it.</hi> You are Gods, then I have theſe two things to lay before you.</p>
+            <p n="1">1. Becauſe you are Gods, let God be your end in Judgement, and his Glory the mark you aime at. His
+<pb n="43" facs="tcp:49542:24"/>Glory is his own end, and his Glory ſhould be your end. God makes all things for himſelf, and all powers that are of him ſhould tend thither, as to their no<g ref="char:EOLhyphen"/>bleſt end, 2 <hi>Chron.</hi> 19.6. <hi>Ye judge not for man, but for the Lord;</hi> and <hi>David</hi> was King <hi>for the Lord his God,</hi> 2 <hi>Chron.</hi> ix. 8. <hi>Non quae ſunt hominis ſed quae ſunt dei ju<g ref="char:EOLhyphen"/>dicatis.</hi> As <hi>Iehoſhaphat</hi> told them, <hi>The matters of the Lord, as well as the Kings matters,</hi> 2 <hi>Chron.</hi> xix. 11. Power and Rule was not intended as a preſervative of Humane onely, but chiefly of Divine Intereſt; not bounds onely to mans Injuſtice, but to his Impiety alſo: Not onely that men might not like fiſhes of the Sea, who have no Ruler, devour one another, <hi>Hab.</hi> i. 13, 14. but that they might not treſpaſſe againſt the Lord; 2 <hi>Chron.</hi> xix. 10. The Apoſtle gives us the reaſon why prayers and ſupplications are to be made for Kings, and all in Authority, 1 <hi>Tim.</hi> ii. 1, 2. that we might lead not onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not onely <hi>quiet and peaceable lives,</hi> but in <hi>all godlineſs and honeſty; religione &amp; ſanctimonia morum,</hi> in all religion and holineſſe of life; could you <hi>my Lords,</hi> ſo order it that we might ſit under our own Vines and Figtrees in Peace, it would be very unequal for us, to be refreſhed with the ſhadow of the Vine, and God to eat the ſowre grapes of it; he might ſay of your Judge<g ref="char:EOLhyphen"/>ment, as he did of Iſrael faſting, <hi>Zach.</hi> vii. 5. <hi>Have ye at all judged for me, even for me, O Houſe of Iſrael.</hi> The Magiſtrate is <hi>Custos utriuſque tabulae,</hi> and in Gods order and method too, who ſaith the firſt is the great Command to be obſerved and preſerved by man, God himſelf is moſt jealous for his own glory: So ſhould a
+<pb n="44" facs="tcp:49542:25"/>Magiſtrate, <hi>Non tantum pacis Custos &amp; Armentarius, ſed pietatis &amp; Minister Dei,</hi> ſaith <hi>Melancthon.</hi> The Jews tell us that of the ſix Inſcriptions that were upon the Steps to <hi>Solomons</hi> Throne, the three loweſt con<g ref="char:EOLhyphen"/>cerned Juſtice towards man, and the three higheſt Re<g ref="char:EOLhyphen"/>ligion towards God; to let him know that when he ſate in Judgement, Religion ſhould be the neareſt his heart, and firſt in his eye. Power and Rule ſhould be as <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s Ladder, whereof as one end ſtood upon the Earth, the other end reached up to Heaven; and it's a good obſervation that one makes of Magiſtracy, that their motion ſhould be as the motion of the Planets to the <hi>Primum Mobile.</hi> Philoſophers tell us they are ſwiſt in the motion of the <hi>Firſt Mover,</hi> and ſlow in their own. So they ſhould ſee that a Nation be not carried down a torrent of violence; but more, that it be not carried down the torrent of wickedneſſe. Then I hope I may tell you that all that Atheiſtical contempt of Gods holy Worſhip, all thoſe irreligious and horrid blaſphemies, oaths, and curſings of thoſe whoſe language is of <hi>Aſh<g ref="char:EOLhyphen"/>dod,</hi> and their tongues ſwords and ſpears to God him<g ref="char:EOLhyphen"/>ſelf, all that impious prophanation of the Lords Day; That Torrent of <hi>Belial,</hi> and Inundation of Debau<g ref="char:EOLhyphen"/>chery that comes in upon us as a Flood, and abounds in every corner, <hi>and well were it if it would content it ſelf with corners;</hi> whereby not onely the power and heart, but the forme and face of Religion ſeems to be loſt: Such as theſe, are <hi>Iniquities to be puniſhed by the Iudges. David</hi> cries out in this caſe, <hi>It is time for the Lord to work, for men have made void thy Law, Pſal.</hi> cxix. 126. and if it be time for <hi>God</hi> to work. I am ſure
+<pb n="45" facs="tcp:49542:25"/>it is no time for the <hi>Gods</hi> to ſleep; to whom ſhould we as the Lords Advocares fly, but to you who are the <hi>Gods,</hi> and ſo to judge for the Lord. Awake up to Judgement, that men may not ſay that God hath for<g ref="char:EOLhyphen"/>ſaken the Earth; becauſe the <hi>Gods</hi> ſeem to do ſo. It's obſervable that <hi>David</hi> and <hi>Solomon</hi> when they were imployed in the Civil Affairs of the Kingdome, they are ſaid to ſit upon their own Throne, and upon the Throne of their Father; but when they looked higher, to reforme Religion, to promote Godlineſſe, to make them forſake their ſtrange Wives, as well as their ſtrange Gods, then they are ſaid to ſit upon the Throne <hi>of the Lord,</hi> 2 <hi>Chron.</hi> ix. 8. 1 <hi>Chron.</hi> xxix. 23. The end of Magiſtracy is as <hi>Iſa.</hi> i. 26. to <hi>purge away our droſſe, and take away our Tinne,</hi> that we might be called the <hi>City of Righteouſneſs;</hi> and to that end he gives Judges as at firſt, and Counſellors as at the be<g ref="char:EOLhyphen"/>ginning. His promiſe is to make our <hi>Officers peace, and our Exactors righteouſneſſe, Iſa.</hi> lx. 17. that we might be a <hi>holy people, Iſa.</hi> lxii. 12. then may we expect a bleſ<g ref="char:EOLhyphen"/>ſing when we are the <hi>Mountain of Holineſſe,</hi> as well as the Habitation of <hi>Iuſtice, Ier.</hi> xxxi. 23.</p>
+            <p>It is neither glory to God, nor honour to a Magiſtrate, when the people is <hi>Gomorrah,</hi> or they called the rulers of <hi>Sodom,</hi> as <hi>Iſa.</hi> 1.10. My Lords, you bear the ſword, and its the ſword of the <hi>Lood.</hi> Act by his example, who alluding from the ſword in his hand, to the ſword in his mouth, ſaith, <hi>Gen.</hi> vi. 3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Non erit tanquam gladius in vagina detentus,</hi> my ſpirit ſhall not be always as a ſword in its ſheath. Where God ſets his face againſt, you muſt not hide your eyes from: where God ſtretch<g ref="char:EOLhyphen"/>eth
+<pb n="46" facs="tcp:49542:26"/>out his arm, you muſt not have yours in your bo<g ref="char:EOLhyphen"/>ſome: where God draws his ſword, you muſt not ſheath it. Gods ſword is drawn, and ſharpened, and furbiſhed againſt iniquity. Hold you it in your hand, that iniquity may be afraid; you bear it not in vain, but as the <hi>Mini<g ref="char:EOLhyphen"/>ſter of God for good,</hi> a terrour to the evil, and let it ap<g ref="char:EOLhyphen"/>pear ſo. A Chriſtian Magiſtrate ſhould go as far as <hi>Gal<g ref="char:EOLhyphen"/>lio</hi> went, who told them when they complained of St. <hi>Paul,</hi> that if there was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Any wrong or wicked lewdneſs;</hi> wrong to man, or lewdneſs againſt God: it was then reaſon he ſhould hear them, <hi>Acts</hi> xviii. 14. And <hi>David</hi> is their example, who ſaid, he would as <hi>Pater patriae,</hi> early deſtroy all the wicked doers out of the Land, <hi>Pſal.</hi> ci. 8. as the Wiſe-man ſaith, <hi>A King ſitting upon his Throne of Judgement, ſcattereth away all evil with his eyes.</hi> Let it not be as it was ſaid of <hi>Laiſh, Judg.</hi> xviii. 7. <hi>No Magiſtrate to put them to ſhame in any thing.</hi> The words are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no <hi>heir of re<g ref="char:EOLhyphen"/>ſtraint.</hi> Power and rule ſhould be as its prime end, a <hi>restraint to evil,</hi> the Law being made for the ungodly, 1 <hi>Tim.</hi> i. 9. and that reſtraint beſt acted, which is done by an <hi>heir</hi> of reſtraint, who hath <hi>right</hi> as well as <hi>might:</hi> the word ſignifies both <hi>poſſidens regnum,</hi> and <hi>haeres inter<g ref="char:EOLhyphen"/>dicti;</hi> a poſſeſſion of the kingdome, and an heir of re<g ref="char:EOLhyphen"/>ſtraint. We have, bleſſed be God, <hi>poſſidens regnum,</hi> one that now poſſeſſeth the kingdome: and as a greater mercy, <hi>haeres interdicti</hi> alſo, whoſe right it is. Let not the <hi>reſtraint</hi> be wanting. My Lords, it will lye at your doors for our <hi>haeres interdicti.</hi> Our Gracious Sovereign, out of his pious and princely care, hath publickly and paſſionately declared his Royal diſpleaſure at, and diſ<g ref="char:EOLhyphen"/>like
+<pb n="47" facs="tcp:49542:26"/>of the prophaneneſs and debauchery which abounds in the Nation, and hath in Print charged us to ſtir up thoſe that are in Authority to put forth this reſtraint, by execution of thoſe good Laws in this caſe provided. I humbly therefore, being backed by the commands of God and Man, preſs this upon all that are in place and power, to give a curb to this growing wickedneſs. The well-temper'd Spring loſeth its virtue and ſtrength, if the leſſer wheels and balance, that ſhould regulate the motion be out of tune. Let <hi>Eli</hi> his Sentence caution you, 1 <hi>Sam.</hi> iii. 13. for the <hi>iniquity</hi> that he knoweth of: <hi>Qui non vetat, quum poteſt, jubet,</hi> He that reſtraineth not, commands, as Miniſters contract the guilt of thoſe ſins they do not reprove: So Magiſtrates of thoſe things they do not puniſh. <hi>They became vile, and thou reſtraineſt them not.</hi> "I ſaid thy houſe ſhould continue before me, here is the <hi>Amarti</hi> in the Text, <hi>I have ſaid.</hi> And though men and devils cannot diſannull his word, yet God him<g ref="char:EOLhyphen"/>ſelf can reverſe it. <hi>But now be it far from me, Thoſe that honour me I will honour, and they that deſpiſe me ſhall be lightly esteemed.</hi>
+            </p>
+            <p n="2">2. You are Gods; then let God be your Rule and Exemplar in Judgement, bee as he is, and do as he doth in Judgement. <hi>Baldaeus</hi> telleth us that there ought to be a double ſalt in a Magiſtrate, <hi>Sal Scientiae,</hi> and <hi>Conſcien<g ref="char:EOLhyphen"/>tiae,</hi> the Salt of Science and Conſcience: by the one he will know what to do, by the other he will do accord<g ref="char:EOLhyphen"/>ing to what he knoweth.</p>
+            <p n="1">1. <hi>Sal Scientiae,</hi> the Salt of <hi>Knowledge;</hi> and that is either <hi>Juris,</hi> or <hi>Facti:</hi> Knowledge of the <hi>Law,</hi> or know<g ref="char:EOLhyphen"/>ledge of the <hi>Fact.</hi> Firſt, for the knowledge of the <hi>Law.</hi>
+               <pb n="48" facs="tcp:49542:27"/>A Judge muſt be a man of knowledge; <hi>Provide able men,</hi> ſaith <hi>Jethro</hi> to <hi>Moſes, Exod.</hi> xviii. 21. they muſt be <hi>Viri virtutis,</hi> Men of inward ſtrength. As <hi>Apollos</hi> was ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mighty in the Scriptures,</hi> ſo muſt they be in the Law. God is ſtiled <hi>a God of Know<g ref="char:EOLhyphen"/>ledge,</hi> and by him all actions are weighed, 1 <hi>Sam.</hi> ii. 3. The knowledge of a Magiſtrate is his ballance wherein he doth <hi>librare Iustitiam,</hi> weigh forth Juſtice to others, it is his Standard and Rule whereby he mea<g ref="char:EOLhyphen"/>ſureth the actions of men. But of this <hi>My Lords,</hi> when I ſpeak before you, I may without flattery apologize with St. <hi>Paul</hi> to <hi>Agrippa,</hi> Acts xxvi 2. <hi>I think my ſelf happy that I am to addreſſe my ſelf to you, who are expert in the Laws and Cuſtoms of our Nation.</hi>
+            </p>
+            <p>Secondly, for the <hi>Scientia facti,</hi> the knowledge of the fact, it is as neceſſary. When a Magiſtrate walks on in darkneſſe, he muſt ſtumble, and the foundations of the Earth will be out of courſe, <hi>Quum judicas cognoſce,</hi> is the monition of a Heathen, <hi>When thou judgeſt know,</hi> what thou judgeſt. A Judge ſhould be to the people inſtead of eys, God himſelf will know and ſee before he ſtriketh, <hi>Gen.</hi> xviii. 21. <hi>I am come down to ſee whe<g ref="char:EOLhyphen"/>ther ſins be according to their cry. Quanquam Deo a<g ref="char:EOLhyphen"/>perta, tamen non punit Audita ſed viſa.</hi> They were well known to God, ſo that not out of his own neceſſity, but for our Imitation he puniſheth, not what he hear<g ref="char:EOLhyphen"/>eth, but what he ſeeth. Chriſt as Iudge, <hi>Iſa.</hi> xi. 3. <hi>Not according to hearing of his ears, or ſight of his own eyes, but with righteouſneſſe ſhall he judge.</hi> My Lords, your Sentence is <hi>Terminatio Cauſae,</hi> the termination and period of every Cauſe. One word from you in the Pro<g ref="char:EOLhyphen"/>phets
+<pb n="49" facs="tcp:49542:27"/>phra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>deſtroyeth a man and his houſe, even a man and his heritage;</hi> and therefore your Sentence had need be well grounded, the Judges Sentence muſt be the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of examination and deliberation. Let it be true, that he is to proceed <hi>ſecundum allegata &amp; pro<g ref="char:EOLhyphen"/>bata,</hi> it muſt be <hi>examinata</hi> alſo; as God himſelf came to examine whether <hi>Sodom</hi>'s cry was true; and <hi>Deut.</hi> xix. 18. <hi>If a falſe witneſſe riſe up againſt a man, to te<g ref="char:EOLhyphen"/>ſtifie against him that which is wrong, the Iudge ſhall make diligent inquiſition:</hi> And <hi>Iob</hi> cleareth himſelf thus, <hi>The cauſe which I knew not I ſearched out, Iob</hi> xxix. 16. The Jews had a Saying to this purpoſe, <hi>In oſtio caulae verba, ſed intra ſepta ratio.</hi> Words may be in the door of the fold, but reaſon and underſtanding muſt be within the hedge. God himſelf doth <hi>librare Iuſtitiam,</hi> weigh his Juſtice. And <hi>Aſtraea</hi> you know, the Hieroglyphick of Iuſtice, as ſhe hath a Sword in one hand, ſo ſhe hath a pair of ballances in the other; to tell you that you muſt ponder and weigh before you ſtrike. The Rabbins have an elegant Saying here, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Beatus eſt Iudex qui fermen<g ref="char:EOLhyphen"/>tat ſuvm judicium;</hi> drawn from the Iſraelites, who be<g ref="char:EOLhyphen"/>cauſe of their haſte, could not ſtay to leaven their bread: the meaning of it is, <hi>That Iudge doth well, who is not haſty in Iudgement.</hi> Deliberation and Conſulta<g ref="char:EOLhyphen"/>tion is the fermentation of Iudgement; not as <hi>David</hi> in haſte gave <hi>Ziba Mephiboſheth</hi>'s Land, and at the beſt, bad them divide it. Miſtake not the Hieroglyphicks of Iuſtice ſo, becauſe Iuſtice was pictured blind, therefore a Iudge muſt put out his eies; he muſt be quick ſighted in every thing, but what may tempt him to pervert Iuſtice.</p>
+            <pb n="50" facs="tcp:49542:28"/>
+            <p n="2">2. There is required <hi>Sal Conſcientia,</hi> the Salt of Conſcience, that he may do according to what he knoweth; this telleth you that you muſt do Juſtice <hi>Effectually</hi> and do it <hi>Impartially.</hi>
+            </p>
+            <p>Firſt, Do it Effectually, God doth ſo, he is <hi>known by the Iudgement which he executeth, Pſal.</hi> ix. 16. and ſo ſhould you make it your buſineſſe to execute true Ju<g ref="char:EOLhyphen"/>ſtice, as God <hi>prepares his Throne for Iudgement, Pſal.</hi> ix. 7. <hi>Will God pervert Iuſtice,</hi> is an Interrogatory that he vehemently denieth, <hi>Iob.</hi> viii. 3. it's far from God, it ſhould be far from a Magiſtrate, as one of the great<g ref="char:EOLhyphen"/>eſt Soloeciſmes that can be committed. Injuſtice in a Judge, leaves injuſtice at Gods Door, and <hi>ſhall not the Iudge of all the World do right?</hi> One foul Sentence is of more dangerous import then many foul examples; the one corrupts but the ſtream, but the other the foun<g ref="char:EOLhyphen"/>tain; as <hi>Prov.</hi> xxv. 26. <hi>Fons turbatus &amp; vena corrupta, est justus cadens in ſuâ cauſâ coram adverſario.</hi> 
+               <q>A trou<g ref="char:EOLhyphen"/>bled Fountain, is a juſt man falling in his cauſe be<g ref="char:EOLhyphen"/>fore the wicked.</q> The Jews have a Saying, <hi>Qui per<g ref="char:EOLhyphen"/>vertit judicim perinde est, acſi perverteret jus Dei &amp; depelleret pedes Majestatis ipſius.</hi> 
+               <q>For a Judge to per<g ref="char:EOLhyphen"/>vert Judgement, is to pervert Gods right, and to thruſt away the feet of the Almighty: who walks in the paths of Judgement, hear <hi>Davids</hi> elegant Anthem, 2 <hi>Sam.</hi> xxiii. 1, 2, 3.</q> 
+               <hi>David the ſon of Ieſſe ſaid, the man rai<g ref="char:EOLhyphen"/>ſed up on high, the anointed of God, the ſweet Pſalmist of Iſrael ſaid, the ſpirit of God ſpake, the God of Iſ<g ref="char:EOLhyphen"/>rael ſaid, the Rock of Iſrael ſpake.</hi> "A large Prologue "to uſher ſome matter of weight, it's but this, <hi>He that ruleth over men must be juſt, ruling in the fear of God.</hi>
+               <pb n="51" facs="tcp:49542:28"/>And <hi>Deut.</hi> xvi. 20. <hi>That which is altogether just, ſhalt thou follow, pure justice,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as your margents read it <hi>Iuſtice, Iuſtice, Shalt thou follow,</hi> the Ingemi<g ref="char:EOLhyphen"/>nation denotes the affection with which God ſpeakes it; and the ſtrictneſſe with which you ſhould execute it; hence Judges are called, <hi>Dan.</hi> iii. 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quaſi,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quorum jus purum eſt,</hi> whoſe Judgement is or ſhould be pure, and Chriſt as Judge ſets you a pattern, <hi>Iſa.</hi> xi. 5. <hi>Righteouſneſſe ſhall be the girdle of his loyns, and faithfulneſſe the girdle of his reins.</hi>
+            </p>
+            <p>Secondly, Do it impartially, God doth ſo, and re<g ref="char:EOLhyphen"/>ſpects no mans perſon in Judgement. The Jews tell us that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifieth both <hi>Aures</hi> and <hi>Bilances,</hi> the ears and a ballance, upon this ground that a Judges ear ſhould be as the tongue of a ballance, ſtand <hi>in aequili<g ref="char:EOLhyphen"/>brio,</hi> equal to both parts, till the weight in the ſcale make it incline to either ſide; <hi>Cauſa non perſona,</hi> The Cauſe not the Perſon, ſhould be a Judges Motto, hence the <hi>Athenians,</hi> the <hi>Egyptians</hi> and the <hi>Thebans</hi> pictured Juſtice blind, and without hands; their Judges being appointed to ſit in the dark, that they might know no mans face but his cauſe. The Jews ſay, <hi>Qui aut amici aut inimici perſonam induit Iudicis exuit.</hi> "He that acts "either as a friend or as an enemy acts not like a Judge. He is not for fear as <hi>Pilate,</hi> nor for ſavour as <hi>Herod,</hi> nor for hatred, as <hi>Ahab,</hi> nor for hope as <hi>Felix,</hi> to paſſe any Sentence: Juſtice muſt run with an even courſe, with<g ref="char:EOLhyphen"/>out the weight of any ballancing intereſts, thus exe<g ref="char:EOLhyphen"/>cute true Judgement in the Gate, and do no unrighte<g ref="char:EOLhyphen"/>ouſneſſe in Judgement, and you will prove your ſelves <hi>Gods, and Children of the Moſt High.</hi> Hear not mine, but <hi>Davids</hi> Suaſives to mind you:</p>
+            <pb n="52" facs="tcp:49542:29"/>
+            <p n="1">1. He tells you <hi>v.</hi> 1. <hi>God standeth in the Congregati<g ref="char:EOLhyphen"/>on of the Gods.</hi> He is <hi>Inſpector morum,</hi> your Dreadful Overſeer, and is privy to your Sentences: Let not Judgement (in the Prophets phraſe) be <hi>far off,</hi> when there ſtands a God of Judgement ſo near you. The Wiſe<g ref="char:EOLhyphen"/>man tells you, <hi>Eccleſ.</hi> 5.8. <hi>When there is a violent per<g ref="char:EOLhyphen"/>verting of Judgement and Juſtice in a City, a higher then the higheſt regardeth it;</hi> and <hi>Job</hi> xxxvi. 7. <hi>His eyes are with Kings upon the Throne:</hi> So with you upon the Seat of Judgement.</p>
+            <p n="2">2. He tells you, <hi>you are foundations,</hi> v. 5. and upon you the whole fabrick leans, it is to you (as the people to <hi>Moſes</hi>) that we come for Juſtice. If the foundations be out of courſe, the fabrick muſt fall; you will be our happineſſe if you execute true Iudgement in the midſt of us. The Iudges uſed to ſit in the Gate, to ſhew us that Iuſtice and Iudgement is a ſtronger <hi>Palladium</hi> to the City, then all the tutelary gods; we may take the mea<g ref="char:EOLhyphen"/>ſure of our peace and happineſſe by the line of Iuſtice which you draw over us. Iuſtice is the pulſe of the Body Politick, <hi>Hab.</hi> i. 4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, our Tranſlation reads it, <hi>the Law fails,</hi> or <hi>is ſlacked, and Iudgement goeth not forth;</hi> but <hi>debilitata eſt lex,</hi> reads the inter<g ref="char:EOLhyphen"/>lineary; and the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it relates to the pulſe of a na<g ref="char:EOLhyphen"/>tural body. <hi>Ceſſabat motus vel pulſus cordis,</hi> ſaith <hi>Shind<g ref="char:EOLhyphen"/>ler,</hi> the motion or pulſe of the heart is ceaſed, to try the health, we feel the pulſe of the body; a weak or an intermitting pulſe is a bad indication of a declining ſtate.</p>
+            <p n="3">3. He telleth you <hi>v.</hi> 6. you are <hi>Gods, and Children of the Moſt High<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> it is your Honour, and brings you the
+<pb n="53" facs="tcp:49542:29"/>nearer to God, if you execute true Iudgement in the Gate. You will endear both God and man by it: Men you will: <hi>Abſalom</hi> by but pretending to it, ſtole away the hearts of the people, 2 <hi>Sam.</hi> xv. 6. <hi>Job</hi> as a Prince and Iudge, put on <hi>Iudgement as a Robe and a Diadem, Iob.</hi> xxix. <hi>and the eye that ſaw him, witneſſed his ho<g ref="char:EOLhyphen"/>nour, and the ear that heard him, bleſſed him, and waited for him as the latter rain,</hi> v. xi. 23. He that ru<g ref="char:EOLhyphen"/>ling over men is juſt, is as the <hi>morning when the Sun ariſeth, a morning without clouds, as clear Sun ſhine after rain,</hi> 2 <hi>Sam.</hi> xxiii. 4. and you will take God, being herein as <hi>David</hi> after his own heart, he will delight in you, as you delight in Iuſtice and Iudgement; who will be ready to ſay, <hi>Ier.</hi> xxxi. 23. <hi>The Lord bleſſe thee, O ha<g ref="char:EOLhyphen"/>bitation of Iuſtice.</hi> The Rabinical Apothegme is to this purpoſe, <hi>Qui judicat veritatis judicium facit Majeſta<g ref="char:EOLhyphen"/>tem divinam habitare ſuper Iſraelem.</hi> He that executes true Iudgement, makes the Divine Majeſty to dwel in Iſrael.</p>
+            <p n="4">4. He telleth you, <hi>you muſt die like men.</hi> As the Ma<g ref="char:EOLhyphen"/>giſtrate is the breath of our Noſtrils, ſo his breath is in his Noſtrils. As the Apoſtle telleth us, <hi>Heb.</hi> 7. There are many <hi>Prieſts</hi> who are not ſuffered to continue by reaſon of death; ſo there are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Many Lords</hi> that are not ſuffered to continue by reaſon of death; Chriſt alone is the Prince and Prieſt after the power of an endleſſe life. It is an obſervation of the Learned <hi>Ve<g ref="char:EOLhyphen"/>rulam,</hi> That the ſumme of what may be ſaid to a Magi<g ref="char:EOLhyphen"/>ſtrate, lies in theſe two, <hi>Memento te eſſe hominem,</hi> and <hi>Memento te eſſe Deum.</hi> Remember thou art a God, and Remember thou art a Man: the one as <hi>Calcar,</hi> the o<g ref="char:EOLhyphen"/>ther
+<pb n="54" facs="tcp:49542:30"/>as <hi>Fraenum,</hi> the one a <hi>Spur,</hi> the other a <hi>Bridle;</hi> a Spur to act like God, and a Bridle to keep them from acting like Man. <hi>My Lords,</hi> this clauſe of <hi>Davids</hi> Ser<g ref="char:EOLhyphen"/>mon tells you, that there will be a time when you muſt ceaſe to judge us; execute therefore true judgement in the Gate, that when you come to lay aſide thoſe Scar<g ref="char:EOLhyphen"/>let Robes, and each of you to receive your <hi>W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t of Eaſe</hi> from the King of Kings, and to lie down in your ear<g ref="char:EOLhyphen"/>then Beds, the fruit of your righteouſneſſe may be peace.</p>
+            <p n="5">5. He tells you <hi>v.</hi> 8. God will judge the Earth, and be Judge himſelf, <hi>Pſal.</hi> l. 6. with a Selah for you, and us to mark, and after you ceaſe to judge us, God muſt then judge you. Paſſe no Sentence therefore here, but what may abide the teſt, when every mans work ſhall be tried by ſire: It was ſaid of <hi>Nerva,</hi> that he com<g ref="char:EOLhyphen"/>forted himſelf in this. <hi>Se nihil feciſſe quo minus imperio depoſito privatus tutò vivere poſſit:</hi> 
+               <q>That he did no<g ref="char:EOLhyphen"/>thing during his Government, but his power being laid aſide, he could live ſafely a private life.</q> It is well for men in power, ſo to act, as that they may free<g ref="char:EOLhyphen"/>ly look man in the face; but it is a great deal better, ſo to act, as that they may be able with cheerfulneſſe to look God in the face. The Jewes have a Saying, <hi>Quem admodum judicasti ad lancem Innocentiae, &amp; imagine<g ref="char:EOLhyphen"/>tur ſibi judex acſi gladius inter faemora, &amp; ei gehenna aperta fuiſſet.</hi> "As thou haſt judged by the ballance of "Innocency, ſo the Supreme Judge ſhall judge thee. Therefore let the Judge upon the Bench imagine to him<g ref="char:EOLhyphen"/>ſelf, as if he had a Sword between his thighs, and as if Hell was open before him. So judge us here, whil'ſt
+<pb n="55" facs="tcp:49542:30"/>we ſtand before you, that when you come to ſtand be<g ref="char:EOLhyphen"/>fore God, you may change your Judgement Seat, for Thrones, there to ſit, and judge the Twelve Tribes of <hi>Iſrael.</hi>
+            </p>
+            <p>Laſtly, one word of application general to us all, and I have done. Magiſtrates are <hi>Gods,</hi> as repreſenting him, and doing his work in judgement: Then God is <hi>Iudge himſelf,</hi> and he will judge the World, and there is a Iudgement to come, and theſe are but the Pro<g ref="char:EOLhyphen"/>logues to that dreadful Solemnity. And it cannot well be, that we being helped on, by ſuch Monitors, ſhould be unmindful of that day, theſe being ſo lively repre<g ref="char:EOLhyphen"/>ſentatives of it; and leaſt we ſhould, theſe are our An<g ref="char:EOLhyphen"/>nual Remembrancers, all we who are but Spectators of others Iudgement, muſt be perſons concerned in that upon our own accompts, where we all ſhall have our Laſt Trial, not for Temporal Inheritances, but for Eternity. The true Notion of Iudgement to come well conſidered, made <hi>Felix</hi> tremble when he ſate upon the Iudgement Seat; much more will it have that effect upon us, when we come to ſtand before it. Can we hear of the coming of the Iudge, and not think of that, wherein it is ſaid, <hi>He cometh to judge the World in Righteouſneſſe,</hi> riding his laſt Circuit upon his Cloudy Chariot, <hi>Pſal.</hi> xcvi. 13. Can you behold the great Conflux of people from every Quarter to this Solemni<g ref="char:EOLhyphen"/>ty, and not think of that day, wherein he ſhall call to the <hi>heavens from above, and the earth beneath, to his judgement, Pſal.</hi> l. 1, 4. Can yee behold the perſon of the Judge, and not think of <hi>that man by whom God hath appointed to judge the World, Acts</hi> xvii. 31. Can
+<pb n="56" facs="tcp:49542:31"/>ye hear the Trumpet ſound before the Judge, and not think of thoſe formidable Heralds of that Day; when <hi>he ſhall deſcend from Heaven with a ſhout, with the voice of the Archangel, and the Trumpet ſhall ſound, and the dead ſhall be raiſed,</hi> 1 <hi>Theſſ.</hi> iv. <hi>Latter End.</hi> Can ye behold theſe (as the Poet calls it <hi>Ignita purpurea,</hi>) ſo here upon better reaſon theſe flaming Scarlet Robes with which the Iudge ſits veſted, and not think of thoſe flaming Robes which that Iudge ſhall come cloa<g ref="char:EOLhyphen"/>thed with, when he ſhall <hi>come in flames to render venge<g ref="char:EOLhyphen"/>ance upon all ungodlineſſe,</hi> 2 <hi>Theſſ.</hi> i. 8. Can ye behold the Iudge ſit down upon his Seat to take cogniſance of all Cauſes Criminal and Civil, and not behold as in a Viſion, Chriſt ſitting down upon his Seat, to take cog<g ref="char:EOLhyphen"/>niſance of <hi>all things done in the body whether good or evil,</hi> 2 <hi>Cor.</hi> v. 10. Can ye behold the Iuſtices of the Peace upon the Bench, as <hi>Iudicis Coaſſeſſores,</hi> Coaſ<g ref="char:EOLhyphen"/>ſeſſors with the Iudge by joynt ſuffrage, ratifying the ſenſe and proceedings at Law. And not think of thoſe Coaſſeſſors with the Great Iudge, who ſhall <hi>judge the World,</hi> and <hi>ſit upon Thrones,</hi> by joynt ſuffrage and aſ<g ref="char:EOLhyphen"/>ſent, ratifying the proceedings of that Iudge, 1 <hi>Cor.</hi> vi. 2. Can ye behold the Gaol delivery, the priſoners con<g ref="char:EOLhyphen"/>ducted to the Bar by the Iaylor, and ſurrendred up to Iuſtice; and not think of that great Gaol Delivery, wherein <hi>Earth and Sea ſhall give up their dead, and ſmall and great ſhall stand before God, Rev.</hi> xx. 12, 13. Can you ſee the Books opened, every mans Caſe ſtated, Inditements read, Witneſſes produced, and circumſtances proved, and all fit for Sentence; and not think of thoſe Books which ſhall be opened, where<g ref="char:EOLhyphen"/>in
+<pb n="57" facs="tcp:49542:31"/>all our actions are regiſtred, and we all ſhall be <hi>judged out of thoſe books, Rev.</hi> xx. at which time there will be impriſonment without Bail, Indictment with<g ref="char:EOLhyphen"/>out <hi>Ignoramus,</hi> Conviction without Plea, Sentence without Writ of Error, Execution without Reprieve, and Judgement without Mercy for all Sinners; all which though it be the leaſt in mens thoughts, yet it ſhall cer<g ref="char:EOLhyphen"/>tainly come, and its prudence before-hand to ſet our ſelves before that Tribunal. And when we behold the guilty felons at the Bar, with pale face,, and akeing hearts, let us think every one of us, <hi>Iam mea res agi<g ref="char:EOLhyphen"/>tur,</hi> our part is now acting. And thus reaſon, <hi>Seeing we look for ſuch things, what manner of perſons ought we to be in all holineſſe of converſation;</hi> and knowing the terrour of the Lord, let me perſade you to paſſe the time of our ſojourning here in fear. <hi>Homo timet Re<g ref="char:EOLhyphen"/>gem qui forte cras morietur ne puniat eum, &amp; non timet à Rege vero in cujus potestate est anima noſtra in hoc faeculo, &amp; in venturo. Aben Ezra</hi> in <hi>Exod.</hi> xx. 3. <hi>We fear the Magistrate, who may die too morrow, leaſt he ſhould puniſh us; but fear not the great King, in whoſe hand our ſouls are in this life, and that which is to come.</hi> The Iews have left a good caution behind them. <hi>Haec tria conſideres &amp; non incides in manus tranſgreſſionis: <g ref="char:V">Ʋ</g>nde venis, quo tendis &amp; coram quo tibi ratio red<g ref="char:EOLhyphen"/>denda ſit.</hi> Conſider theſe theſe three things, and thou ſhalt not fall into hands of tranſgreſſion: <hi>Whence thou comeſt, whither thou goeſt, and before whom thou muſt give an accompt.</hi> So ſpeak and ſo do, as thoſe that muſt be judged by the <hi>Royal Law,</hi> the ſtricteſt Rule, and ſtand at his Tribunal, who is the ſevereſt Iudge;
+<pb n="58" facs="tcp:49542:32"/>that we may with freedome go to meet him in the air; not having the black ſtone of condemnation, and ſo to fall; but the white ſtone of Abſolution, and ſo to ſtand in Judgement, and be for ever with the Lord.</p>
+            <p>And thou O Father, who haſt appointed to judge the World by that Man Ieſus Chriſt, and wilſt con<g ref="char:EOLhyphen"/>vince the World of ſin by thy Holy Spirit: Send down thy Spirit into our hearts, and ſo bleſſe theſe thy ſer<g ref="char:EOLhyphen"/>vants who are now to judge in endowing them with a Spirit of Iudgement; that they may ſo execute the Iuſtice of the Lord in this their day, that they may not fear to ſtand before that Great Tribunal, in the Day of the Lord. And ſo bleſſe and direct us all in our paſſage through this Valley of Tears, that we living in thy fear, not to the will of the fleſh, but to the will of God; we may all, when we come to meet at that Great Aſſize, be found blameleſſe, and without ſpot at his appearing. And this we beg for the Sake and in the Name of Ieſus Chriſt our dear Redeemer, to whom with thee, O Fa<g ref="char:EOLhyphen"/>ther, and the Holy Ghoſt, be all Glory and Honour, now and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>INIS.</hi>
+            </trailer>
+            <pb facs="tcp:49542:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
